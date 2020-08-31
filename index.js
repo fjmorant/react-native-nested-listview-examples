@@ -1,4 +1,5 @@
 import {AppRegistry} from 'react-native';
+import * as React from 'react';
 import {name as appName} from './app.json';
 import CustomNodeExample from './CustomNodeExample';
 import StateChangeNodeExample from './StateChangeNodeExample';
@@ -7,20 +8,42 @@ import NestedRowExample from './NestedRowExample';
 import DynamicContentExample from './DynamicContentExample';
 import ChildrenAsObjectExample from './ChildrenAsObjectExample';
 import ExtraDataExample from './ExtraDataExample';
+import 'react-native-gesture-handler';
 
 import HomeScreen from './HomeScreen';
+import {NavigationContainer} from '@react-navigation/native';
+import {createStackNavigator} from '@react-navigation/stack';
 
-import {StackNavigator} from 'react-navigation';
+const Stack = createStackNavigator();
 
-const SimpleApp = StackNavigator({
-  Home: {screen: HomeScreen},
-  CustomNodeExample: {screen: CustomNodeExample},
-  StateChangeNodeExample: {screen: StateChangeNodeExample},
-  ErrorMessageExample: {screen: ErrorMessageExample},
-  NestedRowExample: {screen: NestedRowExample},
-  ExtraDataExample: {screen: ExtraDataExample},
-  DynamicContentExample: {screen: DynamicContentExample},
-  ChildrenAsObjectExample: {screen: ChildrenAsObjectExample},
-});
+const App = () => {
+  return (
+    <NavigationContainer>
+      <Stack.Navigator>
+        <Stack.Screen name="Home" component={HomeScreen} />
+        <Stack.Screen name="CustomNodeExample" component={CustomNodeExample} />
+        <Stack.Screen
+          name="StateChangeNodeExample"
+          component={StateChangeNodeExample}
+        />
+        <Stack.Screen
+          name="ErrorMessageExample"
+          component={ErrorMessageExample}
+        />
+        <Stack.Screen name="NestedRowExample" component={NestedRowExample} />
+        <Stack.Screen name="ExtraDataExample" component={ExtraDataExample} />
 
-AppRegistry.registerComponent(appName, () => SimpleApp);
+        <Stack.Screen
+          name="DynamicContentExample"
+          component={DynamicContentExample}
+        />
+        <Stack.Screen
+          name="ChildrenAsObjectExample"
+          component={ChildrenAsObjectExample}
+        />
+      </Stack.Navigator>
+    </NavigationContainer>
+  );
+};
+
+AppRegistry.registerComponent(appName, () => App);

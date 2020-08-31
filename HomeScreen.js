@@ -1,6 +1,5 @@
-import React from 'react'
-import {Text, TouchableOpacity, View} from 'react-native'
-import {StackNavigator} from 'react-navigation'
+import React from 'react';
+import {Text, TouchableOpacity, View} from 'react-native';
 
 const options = [
   {
@@ -31,12 +30,12 @@ const options = [
     screen: 'ChildrenAsObjectExample',
     title: 'Children as Object',
   },
-]
+];
 
 export default class HomeScreen extends React.Component {
   static navigationOptions = {
     title: 'Examples',
-  }
+  };
   render() {
     return (
       <View style={{flex: 1, justifyContent: 'flex-start'}}>
@@ -55,6 +54,6 @@ export default class HomeScreen extends React.Component {
           </TouchableOpacity>
         ))}
       </View>
-    )
+    );
   }
 }
