@@ -1,16 +1,16 @@
-import React, {Component} from 'react'
-import {AppRegistry} from 'react-native'
-import CustomNodeExample from './CustomNodeExample'
-import StateChangeNodeExample from './StateChangeNodeExample'
-import ErrorMessageExample from './ErrorMessageExample'
-import NestedRowExample from './NestedRowExample'
-import DynamicContentExample from './DynamicContentExample'
-import ChildrenAsObjectExample from './ChildrenAsObjectExample'
-import ExtraDataExample from './ExtraDataExample'
+import {AppRegistry} from 'react-native';
+import {name as appName} from './app.json';
+import CustomNodeExample from './CustomNodeExample';
+import StateChangeNodeExample from './StateChangeNodeExample';
+import ErrorMessageExample from './ErrorMessageExample';
+import NestedRowExample from './NestedRowExample';
+import DynamicContentExample from './DynamicContentExample';
+import ChildrenAsObjectExample from './ChildrenAsObjectExample';
+import ExtraDataExample from './ExtraDataExample';
 
-import HomeScreen from './HomeScreen'
+import HomeScreen from './HomeScreen';
 
-import {StackNavigator} from 'react-navigation'
+import {StackNavigator} from 'react-navigation';
 
 const SimpleApp = StackNavigator({
   Home: {screen: HomeScreen},
@@ -21,6 +21,6 @@ const SimpleApp = StackNavigator({
   ExtraDataExample: {screen: ExtraDataExample},
   DynamicContentExample: {screen: DynamicContentExample},
   ChildrenAsObjectExample: {screen: ChildrenAsObjectExample},
-})
+});
 
-AppRegistry.registerComponent('example', () => SimpleApp)
+AppRegistry.registerComponent(appName, () => SimpleApp);
