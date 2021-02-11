@@ -5582,10 +5582,10 @@ object-copy@^0.1.0:
     define-property "^0.2.5"
     kind-of "^3.0.3"
 
-object-hash@2.0.1:
-  version "2.0.1"
-  resolved "https://registry.yarnpkg.com/object-hash/-/object-hash-2.0.1.tgz#cef18a0c940cc60aa27965ecf49b782cbf101d96"
-  integrity sha512-HgcGMooY4JC2PBt9sdUdJ6PMzpin+YtY3r/7wg0uTifP+HJWW8rammseSEHuyt0UeShI183UGssCJqm1bJR7QA==
+object-hash@2.1.1:
+  version "2.1.1"
+  resolved "https://registry.yarnpkg.com/object-hash/-/object-hash-2.1.1.tgz#9447d0279b4fcf80cff3259bf66a1dc73afabe09"
+  integrity sha512-VOJmgmS+7wvXf8CjbQmimtCnEx3IAoLxI3fp2fbWehxrWBcAQFbk+vcwb6vzR0VZv/eNCJ/27j151ZTwqW/JeQ==
 
 object-inspect@^1.7.0, object-inspect@^1.8.0:
   version "1.8.0"
@@ -6067,10 +6067,10 @@ react-devtools-core@^4.6.0:
     shell-quote "^1.6.1"
     ws "^7"
 
-react-fast-compare@2.0.4:
-  version "2.0.4"
-  resolved "https://registry.yarnpkg.com/react-fast-compare/-/react-fast-compare-2.0.4.tgz#e84b4d455b0fec113e0402c329352715196f81f9"
-  integrity sha512-suNP+J1VU1MWFKcyt7RtjiSWUjvidmQSlqu+eHslq+342xCbGTYmC0mEhPCOHxlW0CywylOC1u2DFAT+bv4dBw==
+react-fast-compare@3.2.0:
+  version "3.2.0"
+  resolved "https://registry.yarnpkg.com/react-fast-compare/-/react-fast-compare-3.2.0.tgz#641a9da81b6a6320f270e89724fb45a0b39e43bb"
+  integrity sha512-rtGImPZ0YyLrscKI9xTpV8psd6I8VAtjKCzQDlzyDvqJA8XOW78TXYQwNRNd8g8JZnDu8q9Fu/1v4HPAVwVdHA==
 
 react-is@^16.12.0, react-is@^16.13.0, react-is@^16.7.0, react-is@^16.8.1, react-is@^16.8.4, react-is@^16.8.6:
   version "16.13.1"
@@ -6098,15 +6098,15 @@ react-native-iphone-x-helper@^1.3.0:
   resolved "https://registry.yarnpkg.com/react-native-iphone-x-helper/-/react-native-iphone-x-helper-1.3.1.tgz#20c603e9a0e765fd6f97396638bdeb0e5a60b010"
   integrity sha512-HOf0jzRnq2/aFUcdCJ9w9JGzN3gdEg0zFE4FyYlp4jtidqU03D5X7ZegGKfT1EWteR0gPBGp9ye5T5FvSWi9Yg==
 
-react-native-nested-listview@0.9.0:
-  version "0.9.0"
-  resolved "https://registry.yarnpkg.com/react-native-nested-listview/-/react-native-nested-listview-0.9.0.tgz#e09b42186e53a9f8641575727d0470aa3d855103"
-  integrity sha512-W/qJ4WjN7EqRpqruF2UOSEB3HOEt77D2bz7n/wAcoYsagLvy8HZLyL+2SYLOMfSEfvfS/P99mtpAOBksGxSgDQ==
+react-native-nested-listview@0.9.1:
+  version "0.9.1"
+  resolved "https://registry.yarnpkg.com/react-native-nested-listview/-/react-native-nested-listview-0.9.1.tgz#1e8d51f191a5712b356268ea7910f3c93e4ceee6"
+  integrity sha512-DfCEdxpc2ZpSxEpbYTdAEDVVzfzHKyp2AzYTcpNjBQ5/rGeAV0ZPAKGExa6aXFhAMIzeVI3LGPtFTSMkmkWUBQ==
   dependencies:
-    object-hash "2.0.1"
-    react-fast-compare "2.0.4"
-    shortid "2.2.15"
-    use-global-hook "0.1.12"
+    object-hash "2.1.1"
+    react-fast-compare "3.2.0"
+    shortid "2.2.16"
+    use-global-hook "0.2.1"
 
 react-native-reanimated@1.13.2:
   version "1.13.2"
@@ -6157,14 +6157,6 @@ react-native@0.63.4:
     stacktrace-parser "^0.1.3"
     use-subscription "^1.0.0"
     whatwg-fetch "^3.0.0"
-
-react-navigation-stack@2.10.2:
-  version "2.10.2"
-  resolved "https://registry.yarnpkg.com/react-navigation-stack/-/react-navigation-stack-2.10.2.tgz#9b6d38503496f9ef519acc6cad270ec0ace4ccbd"
-  integrity sha512-mkJnMFYUyE4JAMGpQO/tOX8SUpckdNkrwgK+5prNwdCKSUY2EqqYv1f9OHUjbhFd9lfmbEGnoB83Lv0/PWv/0g==
-  dependencies:
-    color "^3.1.3"
-    react-native-iphone-x-helper "^1.3.0"
 
 react-refresh@^0.4.0:
   version "0.4.3"
@@ -6647,13 +6639,6 @@ shellwords@^0.1.1:
   version "0.1.1"
   resolved "https://registry.yarnpkg.com/shellwords/-/shellwords-0.1.1.tgz#d6b9181c1a48d397324c84871efbcfc73fc0654b"
   integrity sha512-vFwSUfQvqybiICwZY5+DAWIPLKsWO31Q91JSKl3UYv+K5c2QRPzn0qzec6QPu1Qc9eHYItiP3NdJqNVqetYAww==
-
-shortid@2.2.15:
-  version "2.2.15"
-  resolved "https://registry.yarnpkg.com/shortid/-/shortid-2.2.15.tgz#2b902eaa93a69b11120373cd42a1f1fe4437c122"
-  integrity sha512-5EaCy2mx2Jgc/Fdn9uuDuNIIfWBpzY4XIlhoqtXF6qsf+/+SGZ+FxDdX/ZsMZiWupIWNqAEmiNY4RC+LSmCeOw==
-  dependencies:
-    nanoid "^2.1.0"
 
 shortid@2.2.16:
   version "2.2.16"
@@ -7375,10 +7360,10 @@ urix@^0.1.0:
   resolved "https://registry.yarnpkg.com/urix/-/urix-0.1.0.tgz#da937f7a62e21fec1fd18d49b35c2935067a6c72"
   integrity sha1-2pN/emLiH+wf0Y1Js1wpNQZ6bHI=
 
-use-global-hook@0.1.12:
-  version "0.1.12"
-  resolved "https://registry.yarnpkg.com/use-global-hook/-/use-global-hook-0.1.12.tgz#3db747ca78e5bd1a007af176ad338f72293e730f"
-  integrity sha512-KhsWfDaa4jXgGHKDSxmBP0GjnIs5ad12y1vhl5mGBDcIiFfj3oB9vdfZZZCCPlZ14gI+tjCKZtb82+bPEwj3Iw==
+use-global-hook@0.2.1:
+  version "0.2.1"
+  resolved "https://registry.yarnpkg.com/use-global-hook/-/use-global-hook-0.2.1.tgz#3b10eee41946dce8f951926c2f478a0f8b1a8cfd"
+  integrity sha512-rLxSGHluN0bOaHG6PiuY/QSElNZM/kc7gnyr7065BC4Pw5zHRZf+a91tbGoDdoF5ZIV0OdS3Gn/bTQEFvFZCxw==
 
 use-subscription@^1.0.0:
   version "1.4.1"

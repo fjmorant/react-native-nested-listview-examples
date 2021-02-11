@@ -134,6 +134,7 @@ export default class ExampleApp extends React.Component<Props, State> {
           <Button onPress={this.onPressUpdate} title="Update Content" />
         </View>
         <NestedListView
+         keepOpenedState
           data={this.state.dataSource === 'data' ? data : data2}
           getChildrenName={this.getChildrenName}
           onNodePressed={this.onNodePressed}

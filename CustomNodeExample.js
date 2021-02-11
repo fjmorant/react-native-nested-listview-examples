@@ -28,7 +28,7 @@ const generateXNumItems = (numItems, prefix) => {
 const data = [
   {
     name: 'Item level 1.1',
-    descendants: generateXNumItems(10, 'Item level 1.1'),
+    descendants: generateXNumItems(100, 'Item level 1.1'),
   },
   {
     name: 'Item level 1.2',
@@ -38,13 +38,13 @@ const data = [
       },
       {
         name: 'Item level 1.2.2',
-        children: generateXNumItems(25, 'Item level 1.2.2'),
+        children: generateXNumItems(250, 'Item level 1.2.2'),
       },
     ],
   },
   {
     name: 'Item level 1.3',
-    descendants: generateXNumItems(50, 'Item level 1.3'),
+    descendants: generateXNumItems(500, 'Item level 1.3'),
   },
 ]
 
@@ -79,7 +79,7 @@ export default class ExampleApp extends React.Component<Props, State> {
   }
 
   onNodePressed = (node: any) => {
-    alert(node.name)
+    // alert(node.name)
   }
 
   getChildrenName = (node: Object) => {
