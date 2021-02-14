@@ -1,0 +1,3323 @@
+{
+  "side_panel_nested_categories": [
+    {
+      "title": "Kategoriler",
+      "items": [
+        {
+          "title": "İşletmeler",
+          "category_type": 1,
+          "items": [
+            {
+              "uid": "5e54be004ba7b",
+              "title": "YEME & İÇME",
+              "category_type": "1",
+              "is_main_category": 1,
+              "items": [
+                {
+                  "uid": "5e54c03997f78",
+                  "parent_uid": "5e54be004ba7b",
+                  "title": "RESTAURANT",
+                  "category_type": "1",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e54c04f36884",
+                  "parent_uid": "5e54be004ba7b",
+                  "title": "LOKANTA",
+                  "category_type": "1",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e54c05bd36ea",
+                  "parent_uid": "5e54be004ba7b",
+                  "title": "MANGAL",
+                  "category_type": "1",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e54c06ace2e5",
+                  "parent_uid": "5e54be004ba7b",
+                  "title": "DENİZ ÜRÜNLERİ",
+                  "category_type": "1",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e54c07736a89",
+                  "parent_uid": "5e54be004ba7b",
+                  "title": "TÜRK MUTFAĞI",
+                  "category_type": "1",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e54c082a8ca7",
+                  "parent_uid": "5e54be004ba7b",
+                  "title": "FASTFOOD",
+                  "category_type": "1",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e54c08d1b8a9",
+                  "parent_uid": "5e54be004ba7b",
+                  "title": "DÖNERCİ",
+                  "category_type": "1",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e54c09a445e1",
+                  "parent_uid": "5e54be004ba7b",
+                  "title": "KAHVALTI",
+                  "category_type": "1",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e54c0b6dbf3f",
+                  "parent_uid": "5e54be004ba7b",
+                  "title": "FIRIN ÜRÜNLERİ",
+                  "category_type": "1",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e54c0c6d0dec",
+                  "parent_uid": "5e54be004ba7b",
+                  "title": "PASTA VE TATLI",
+                  "category_type": "1",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e54c0d589865",
+                  "parent_uid": "5e54be004ba7b",
+                  "title": "ÇİĞKÖFTE",
+                  "category_type": "1",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e54c0e65cc9d",
+                  "parent_uid": "5e54be004ba7b",
+                  "title": "CAFE & BİSTRO",
+                  "category_type": "1",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e54c0f4e6ad2",
+                  "parent_uid": "5e54be004ba7b",
+                  "title": "TAKE A WAY",
+                  "category_type": "1",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e5675a6d294d",
+                  "parent_uid": "5e54be004ba7b",
+                  "title": "EV YEMEKÇİLERİ",
+                  "category_type": "1",
+                  "is_main_category": 2
+                }
+              ]
+            },
+            {
+              "uid": "5e54be55b9100",
+              "title": "GIDA ALIŞVERİŞ",
+              "category_type": "1",
+              "is_main_category": 1,
+              "items": [
+                {
+                  "uid": "5e54c1bd1600f",
+                  "parent_uid": "5e54be55b9100",
+                  "title": "KASAP",
+                  "category_type": "1",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e54c1cb7c793",
+                  "parent_uid": "5e54be55b9100",
+                  "title": "ŞARKÜTERİ",
+                  "category_type": "1",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e54c1d45a9ba",
+                  "parent_uid": "5e54be55b9100",
+                  "title": "MANAV",
+                  "category_type": "1",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e54c1e2a5686",
+                  "parent_uid": "5e54be55b9100",
+                  "title": "MARKET",
+                  "category_type": "1",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e54c1ec43934",
+                  "parent_uid": "5e54be55b9100",
+                  "title": "FIRIN",
+                  "category_type": "1",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e54c1f68161a",
+                  "parent_uid": "5e54be55b9100",
+                  "title": "KURUYEMİŞ",
+                  "category_type": "1",
+                  "is_main_category": 2
+                }
+              ]
+            },
+            {
+              "uid": "5e54be6d1212f",
+              "title": "SAĞLIK",
+              "category_type": "1",
+              "is_main_category": 1,
+              "items": [
+                {
+                  "uid": "5e54c20950aae",
+                  "parent_uid": "5e54be6d1212f",
+                  "title": "HASTANE",
+                  "category_type": "1",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e54c21bbaad1",
+                  "parent_uid": "5e54be6d1212f",
+                  "title": "DİŞ POLİKLİNİĞİ",
+                  "category_type": "1",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e54c228224c7",
+                  "parent_uid": "5e54be6d1212f",
+                  "title": "ECZANE",
+                  "category_type": "1",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e54c23759139",
+                  "parent_uid": "5e54be6d1212f",
+                  "title": "MEDİCAL",
+                  "category_type": "1",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e54c24633e07",
+                  "parent_uid": "5e54be6d1212f",
+                  "title": "PSİKOLOG",
+                  "category_type": "1",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e54c253c5386",
+                  "parent_uid": "5e54be6d1212f",
+                  "title": "DİYETİSYEN",
+                  "category_type": "1",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e54c260dfe86",
+                  "parent_uid": "5e54be6d1212f",
+                  "title": "OPTİK",
+                  "category_type": "1",
+                  "is_main_category": 2
+                }
+              ]
+            },
+            {
+              "uid": "5e54bea32f6be",
+              "title": "KUAFÖR & GÜZELLİK  SALONU",
+              "category_type": "1",
+              "is_main_category": 1,
+              "items": [
+                {
+                  "uid": "5e54c38dbabe4",
+                  "parent_uid": "5e54bea32f6be",
+                  "title": "GÜZELLİK SALONU",
+                  "category_type": "1",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e54c39ac0d3b",
+                  "parent_uid": "5e54bea32f6be",
+                  "title": "KUAFÖR",
+                  "category_type": "1",
+                  "is_main_category": 2
+                }
+              ]
+            },
+            {
+              "uid": "5e7b1dde8b78f",
+              "title": "MASAJ & SPA",
+              "category_type": "1",
+              "is_main_category": 1,
+              "items": [
+                {
+                  "uid": "5e54c3ad6c5c6",
+                  "parent_uid": "5e7b1dde8b78f",
+                  "title": "MASAJ VE SPA",
+                  "category_type": "1",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e54c3d13a65c",
+                  "parent_uid": "5e7b1dde8b78f",
+                  "title": "HAMAM",
+                  "category_type": "1",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e54c3dbe7590",
+                  "parent_uid": "5e7b1dde8b78f",
+                  "title": "SAUNA",
+                  "category_type": "1",
+                  "is_main_category": 2
+                }
+              ]
+            },
+            {
+              "uid": "5e54bf052b518",
+              "title": "TİYATRO & SİNEMA",
+              "category_type": "1",
+              "is_main_category": 1,
+              "items": [
+                {
+                  "uid": "5e54c6415a03c",
+                  "parent_uid": "5e54bf052b518",
+                  "title": " TİYATRO",
+                  "category_type": "1",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e54c66fd6170",
+                  "parent_uid": "5e54bf052b518",
+                  "title": "SİNEMA",
+                  "category_type": "1",
+                  "is_main_category": 2
+                }
+              ]
+            },
+            {
+              "uid": "5e54bf1882a20",
+              "title": "ELEKTRONİK",
+              "category_type": "1",
+              "is_main_category": 1,
+              "items": [
+                {
+                  "uid": "5e54c6d6be12c",
+                  "parent_uid": "5e54bf1882a20",
+                  "title": "CEP TELEFONU",
+                  "category_type": "1",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e54c6e5e3a53",
+                  "parent_uid": "5e54bf1882a20",
+                  "title": "TELEVİZYON",
+                  "category_type": "1",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e54c6f360a5e",
+                  "parent_uid": "5e54bf1882a20",
+                  "title": "BEYAZ EŞYA - EV ALETLERİ",
+                  "category_type": "1",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e54c700c9c2b",
+                  "parent_uid": "5e54bf1882a20",
+                  "title": "BİLGİSAYAR",
+                  "category_type": "1",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e54c71596bfa",
+                  "parent_uid": "5e54bf1882a20",
+                  "title": "FOTOĞRAF - KAMERA",
+                  "category_type": "1",
+                  "is_main_category": 2
+                }
+              ]
+            },
+            {
+              "uid": "5e54bf2966610",
+              "title": "GİYİM",
+              "category_type": "1",
+              "is_main_category": 1,
+              "items": [
+                {
+                  "uid": "5e54c737451d5",
+                  "parent_uid": "5e54bf2966610",
+                  "title": "DIŞ GİYİM",
+                  "category_type": "1",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e54c74301f04",
+                  "parent_uid": "5e54bf2966610",
+                  "title": "İÇ GİYİM",
+                  "category_type": "1",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e54c7522eae0",
+                  "parent_uid": "5e54bf2966610",
+                  "title": "TESETTÜR GİYİM",
+                  "category_type": "1",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e54c7771cb21",
+                  "parent_uid": "5e54bf2966610",
+                  "title": "KONFEKSİYON",
+                  "category_type": "1",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e54c785df095",
+                  "parent_uid": "5e54bf2966610",
+                  "title": "HAMİLE GİYİM",
+                  "category_type": "1",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e54c798bf60b",
+                  "parent_uid": "5e54bf2966610",
+                  "title": "AYAKKABI",
+                  "category_type": "1",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e54c7a60fe59",
+                  "parent_uid": "5e54bf2966610",
+                  "title": "ÇANTA",
+                  "category_type": "1",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e54c7c934456",
+                  "parent_uid": "5e54bf2966610",
+                  "title": "SPOR GİYİM",
+                  "category_type": "1",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e54c7d902606",
+                  "parent_uid": "5e54bf2966610",
+                  "title": "ÇOCUK GİYİM",
+                  "category_type": "1",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e54c7f1bb3ee",
+                  "parent_uid": "5e54bf2966610",
+                  "title": "GELİNLİK- ABİYE",
+                  "category_type": "1",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e54c800ae56f",
+                  "parent_uid": "5e54bf2966610",
+                  "title": "AKSESUAR",
+                  "category_type": "1",
+                  "is_main_category": 2
+                }
+              ]
+            },
+            {
+              "uid": "5e54bf385ce74",
+              "title": "EĞİTİM & KURSLAR",
+              "category_type": "1",
+              "is_main_category": 1,
+              "items": [
+                {
+                  "uid": "5e54c97846a1f",
+                  "parent_uid": "5e54bf385ce74",
+                  "title": "ÖZEL OKULLAR",
+                  "category_type": "1",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e54c9a7d13e2",
+                  "parent_uid": "5e54bf385ce74",
+                  "title": "ÖZEL DERSLER",
+                  "category_type": "1",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e54c9568edce",
+                  "parent_uid": "5e54bf385ce74",
+                  "title": "DİL KURSLARI",
+                  "category_type": "1",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e54c9684bf6d",
+                  "parent_uid": "5e54bf385ce74",
+                  "title": "SÜRÜCÜ KURSLARI",
+                  "category_type": "1",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e54c98e1d65e",
+                  "parent_uid": "5e54bf385ce74",
+                  "title": "GÜZEL SANATLAR KURSU",
+                  "category_type": "1",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e54c9c312e7c",
+                  "parent_uid": "5e54bf385ce74",
+                  "title": "DANS VE HALK OYUNLARI",
+                  "category_type": "1",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e563b8e7b6bb",
+                  "parent_uid": "5e54bf385ce74",
+                  "title": "ÖĞRENCİ YURTLARI",
+                  "category_type": "1",
+                  "is_main_category": 2
+                }
+              ]
+            },
+            {
+              "uid": "5e54bf48ca2eb",
+              "title": "KONAKLAMA & SEYAHAT",
+              "category_type": "1",
+              "is_main_category": 1,
+              "items": [
+                {
+                  "uid": "5e54c9e181847",
+                  "parent_uid": "5e54bf48ca2eb",
+                  "title": "OTEL",
+                  "category_type": "1",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e54c9f054f99",
+                  "parent_uid": "5e54bf48ca2eb",
+                  "title": "TERMAL OTEL",
+                  "category_type": "1",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e54ca01872de",
+                  "parent_uid": "5e54bf48ca2eb",
+                  "title": "TUR FİRMALARI",
+                  "category_type": "1",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e54ca17e0080",
+                  "parent_uid": "5e54bf48ca2eb",
+                  "title": "OTOBÜS FİRMALARI",
+                  "category_type": "1",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e54ca217afcc",
+                  "parent_uid": "5e54bf48ca2eb",
+                  "title": "TAKSİ",
+                  "category_type": "1",
+                  "is_main_category": 2
+                }
+              ]
+            },
+            {
+              "uid": "5e54bf5aa0d26",
+              "title": "MOBİLYA & ZÜCCACİYE",
+              "category_type": "1",
+              "is_main_category": 1,
+              "items": [
+                {
+                  "uid": "5e54ca61a0da0",
+                  "parent_uid": "5e54bf5aa0d26",
+                  "title": "OFİS MOBİLYALARI",
+                  "category_type": "1",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e54ca7326ba5",
+                  "parent_uid": "5e54bf5aa0d26",
+                  "title": "EV MOBİLYASI",
+                  "category_type": "1",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e54caacb45cc",
+                  "parent_uid": "5e54bf5aa0d26",
+                  "title": "ÇOCUK MOBİLYASI",
+                  "category_type": "1",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e54ca87b5dcb",
+                  "parent_uid": "5e54bf5aa0d26",
+                  "title": "MASA SANDALYE",
+                  "category_type": "1",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e54cab860ec3",
+                  "parent_uid": "5e54bf5aa0d26",
+                  "title": "YATAK",
+                  "category_type": "1",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e54cadfad003",
+                  "parent_uid": "5e54bf5aa0d26",
+                  "title": "HALI - PERDE",
+                  "category_type": "1",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e54ca9896c44",
+                  "parent_uid": "5e54bf5aa0d26",
+                  "title": "ZÜCCACİYE",
+                  "category_type": "1",
+                  "is_main_category": 2
+                }
+              ]
+            },
+            {
+              "uid": "5e54bf74b9f94",
+              "title": "SPOR VE TESİSLERİ",
+              "category_type": "1",
+              "is_main_category": 1,
+              "items": [
+                {
+                  "uid": "5e54cecfe7413",
+                  "parent_uid": "5e54bf74b9f94",
+                  "title": "HALI SAHA",
+                  "category_type": "1",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e54cede5990f",
+                  "parent_uid": "5e54bf74b9f94",
+                  "title": "SPOR SALONU",
+                  "category_type": "1",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e54ceecdcf5a",
+                  "parent_uid": "5e54bf74b9f94",
+                  "title": "SPOR KULÜPLERİ",
+                  "category_type": "1",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e54cefb5ad85",
+                  "parent_uid": "5e54bf74b9f94",
+                  "title": "REFORMER",
+                  "category_type": "1",
+                  "is_main_category": 2
+                }
+              ]
+            },
+            {
+              "uid": "5e54bf80b7544",
+              "title": "NAKLİYE & VİNÇ",
+              "category_type": "1",
+              "is_main_category": 1,
+              "items": [
+                {
+                  "uid": "5e54cf1a7ac3f",
+                  "parent_uid": "5e54bf80b7544",
+                  "title": "EVDEN EVE TAŞIMACILIK",
+                  "category_type": "1",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e54cf2d9ebcb",
+                  "parent_uid": "5e54bf80b7544",
+                  "title": "KARGO - AMBAR",
+                  "category_type": "1",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e54cf384bff8",
+                  "parent_uid": "5e54bf80b7544",
+                  "title": "KURYE",
+                  "category_type": "1",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e54cf5e6b7b0",
+                  "parent_uid": "5e54bf80b7544",
+                  "title": "ŞEHİRLER ARASI NAKLİYE",
+                  "category_type": "1",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e54cf81e839c",
+                  "parent_uid": "5e54bf80b7544",
+                  "title": "VİNÇ",
+                  "category_type": "1",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e563d0a3c4c0",
+                  "parent_uid": "5e54bf80b7544",
+                  "title": "KURTARICI",
+                  "category_type": "1",
+                  "is_main_category": 2
+                }
+              ]
+            },
+            {
+              "uid": "5e54bf93dec87",
+              "title": "İNŞAAT MALZEMECİLERİ",
+              "category_type": "1",
+              "is_main_category": 1,
+              "items": [
+                {
+                  "uid": "5e54d28cd3b09",
+                  "parent_uid": "5e54bf93dec87",
+                  "title": "İNŞAAT MALZEMECİLERİ",
+                  "category_type": "1",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e54d092a3d9a",
+                  "parent_uid": "5e54bf93dec87",
+                  "title": "ELEKTRİK MALZEMECİLERİ",
+                  "category_type": "1",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e563ec86d886",
+                  "parent_uid": "5e54bf93dec87",
+                  "title": "BETON TESİSLERİ",
+                  "category_type": "1",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e563edcb263f",
+                  "parent_uid": "5e54bf93dec87",
+                  "title": "TAŞ OCAKLARI",
+                  "category_type": "1",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e563f06b9b50",
+                  "parent_uid": "5e54bf93dec87",
+                  "title": "KOMBİ VE DOĞALGAZ",
+                  "category_type": "1",
+                  "is_main_category": 2
+                }
+              ]
+            },
+            {
+              "uid": "5e564054650ac",
+              "title": "İNŞAAT TAŞERONLARI",
+              "category_type": "1",
+              "is_main_category": 1,
+              "items": [
+                {
+                  "uid": "5e5667a925390",
+                  "parent_uid": "5e564054650ac",
+                  "title": "ALÇI - SATEN - BOYA",
+                  "category_type": "1",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e5667c7a9b7f",
+                  "parent_uid": "5e564054650ac",
+                  "title": "ASMA TAVAN",
+                  "category_type": "1",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e5667da84dbb",
+                  "parent_uid": "5e564054650ac",
+                  "title": "ÇATI",
+                  "category_type": "1",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e5667ebb8adf",
+                  "parent_uid": "5e564054650ac",
+                  "title": "ZEMİN KAPLAMA",
+                  "category_type": "1",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e5667fe34228",
+                  "parent_uid": "5e564054650ac",
+                  "title": "DUVAR - CEPHE KAPLAMA",
+                  "category_type": "1",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e566824b6ca6",
+                  "parent_uid": "5e564054650ac",
+                  "title": "YENİ İNŞAAT YAPIMI",
+                  "category_type": "1",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e566833140df",
+                  "parent_uid": "5e564054650ac",
+                  "title": "DEMİR DOĞRAMA",
+                  "category_type": "1",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e56683ed81b6",
+                  "parent_uid": "5e564054650ac",
+                  "title": "ASANSÖR",
+                  "category_type": "1",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e56685be7f3e",
+                  "parent_uid": "5e564054650ac",
+                  "title": "ELEKTRİK - UYDU",
+                  "category_type": "1",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e56687520b8e",
+                  "parent_uid": "5e564054650ac",
+                  "title": "TESİSAT - DOĞALGAZ",
+                  "category_type": "1",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e566881dddf8",
+                  "parent_uid": "5e564054650ac",
+                  "title": "HAFRİYAT",
+                  "category_type": "1",
+                  "is_main_category": 2
+                }
+              ]
+            },
+            {
+              "uid": "5e54bf9fcee8b",
+              "title": "TEMİZLİK",
+              "category_type": "1",
+              "is_main_category": 1,
+              "items": [
+                {
+                  "uid": "5e54d36659dc8",
+                  "parent_uid": "5e54bf9fcee8b",
+                  "title": "EV VE APARTMAN TEMİZLİĞİ",
+                  "category_type": "1",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e54d38211e04",
+                  "parent_uid": "5e54bf9fcee8b",
+                  "title": "OTO TEMİZLİK",
+                  "category_type": "1",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e54d3978eb50",
+                  "parent_uid": "5e54bf9fcee8b",
+                  "title": "HALI - PERDE YIKAMA",
+                  "category_type": "1",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e54d3b63dfad",
+                  "parent_uid": "5e54bf9fcee8b",
+                  "title": "KOLTUK DÖŞEME YIKAMA",
+                  "category_type": "1",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e54d3ca23600",
+                  "parent_uid": "5e54bf9fcee8b",
+                  "title": "ELBİSE YIKAMA VE ÜTÜ",
+                  "category_type": "1",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e54d3d77c318",
+                  "parent_uid": "5e54bf9fcee8b",
+                  "title": "KURU TEMİZLEME",
+                  "category_type": "1",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e54d40b5e228",
+                  "parent_uid": "5e54bf9fcee8b",
+                  "title": "İLAÇLAMA",
+                  "category_type": "1",
+                  "is_main_category": 2
+                }
+              ]
+            },
+            {
+              "uid": "5e54bfb2c3585",
+              "title": "KUYUMCU & GÜMÜŞ TAKI",
+              "category_type": "1",
+              "is_main_category": 1,
+              "items": [
+                {
+                  "uid": "5e54d603853b4",
+                  "parent_uid": "5e54bfb2c3585",
+                  "title": "KUYUMCU",
+                  "category_type": "1",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e54d61709ee9",
+                  "parent_uid": "5e54bfb2c3585",
+                  "title": "GÜMÜŞ TAKI",
+                  "category_type": "1",
+                  "is_main_category": 2
+                }
+              ]
+            },
+            {
+              "uid": "5e54bfc3d15c5",
+              "title": "DÜĞÜN VE ORGANİZASYON",
+              "category_type": "1",
+              "is_main_category": 1,
+              "items": [
+                {
+                  "uid": "5e54d62ab36bd",
+                  "parent_uid": "5e54bfc3d15c5",
+                  "title": "DÜĞÜN SALONU",
+                  "category_type": "1",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e54d64100e68",
+                  "parent_uid": "5e54bfc3d15c5",
+                  "title": "ÖZEL GÜN ORGANİZASYONU",
+                  "category_type": "1",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e54d6537f97c",
+                  "parent_uid": "5e54bfc3d15c5",
+                  "title": "IŞIK VE SES SİSTEMLERİ",
+                  "category_type": "1",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e54d66f60f59",
+                  "parent_uid": "5e54bfc3d15c5",
+                  "title": "FOTOĞRAF VE ALBÜM ÇEKİMLERİ",
+                  "category_type": "1",
+                  "is_main_category": 2
+                }
+              ]
+            },
+            {
+              "uid": "5e54bfd10022b",
+              "title": "MUTFAK & BANYO & DOLAP",
+              "category_type": "1",
+              "is_main_category": 1,
+              "items": []
+            },
+            {
+              "uid": "5e54bfde737cb",
+              "title": "SİGORTA & KASKO",
+              "category_type": "1",
+              "is_main_category": 1,
+              "items": []
+            },
+            {
+              "uid": "5e54bfeb91643",
+              "title": "VASITA",
+              "category_type": "1",
+              "is_main_category": 1,
+              "items": [
+                {
+                  "uid": "5e566b5f68f41",
+                  "parent_uid": "5e54bfeb91643",
+                  "title": "OTOMOTİV",
+                  "category_type": "1",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e566b6ebcc56",
+                  "parent_uid": "5e54bfeb91643",
+                  "title": "OTOGALERİ",
+                  "category_type": "1",
+                  "is_main_category": 2
+                }
+              ]
+            },
+            {
+              "uid": "5e54bffac1ae7",
+              "title": "AKARYAKIT",
+              "category_type": "1",
+              "is_main_category": 1,
+              "items": []
+            },
+            {
+              "uid": "5e56383674fb3",
+              "title": "KOZMETİK & PARFÜMERİ",
+              "category_type": "1",
+              "is_main_category": 1,
+              "items": [
+                {
+                  "uid": "5e56386c17874",
+                  "parent_uid": "5e56383674fb3",
+                  "title": "KOZMETİK",
+                  "category_type": "1",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e563882ae7aa",
+                  "parent_uid": "5e56383674fb3",
+                  "title": "PARFÜMERİ",
+                  "category_type": "1",
+                  "is_main_category": 2
+                }
+              ]
+            },
+            {
+              "uid": "5e566bc5a784e",
+              "title": "PVC PENCERE & BALKON KAPAMA",
+              "category_type": "1",
+              "is_main_category": 1,
+              "items": []
+            },
+            {
+              "uid": "5e566c57c7470",
+              "title": "REKLAM & TABELA",
+              "category_type": "1",
+              "is_main_category": 1,
+              "items": []
+            },
+            {
+              "uid": "5e566c6e52ef2",
+              "title": "MATBAA & OFSET",
+              "category_type": "1",
+              "is_main_category": 1,
+              "items": []
+            },
+            {
+              "uid": "5e566c8074686",
+              "title": "RENT A CAR",
+              "category_type": "1",
+              "is_main_category": 1,
+              "items": []
+            },
+            {
+              "uid": "5e566c902e4bb",
+              "title": "OTO EKSPERTİZ",
+              "category_type": "1",
+              "is_main_category": 1,
+              "items": []
+            },
+            {
+              "uid": "5e566ca1b589a",
+              "title": "ÇİLİNGİR",
+              "category_type": "1",
+              "is_main_category": 1,
+              "items": []
+            },
+            {
+              "uid": "5e566cb1564ee",
+              "title": "ÇİÇEKCİ",
+              "category_type": "1",
+              "is_main_category": 1,
+              "items": []
+            },
+            {
+              "uid": "5e566cc744356",
+              "title": "KİTAP & KIRTASİYE",
+              "category_type": "1",
+              "is_main_category": 1,
+              "items": []
+            },
+            {
+              "uid": "5e566cdc942d7",
+              "title": "PET SHOP & VETERİNER",
+              "category_type": "1",
+              "is_main_category": 1,
+              "items": []
+            },
+            {
+              "uid": "5e566cf407591",
+              "title": "WEB & GRAFİKER & PROGRAMCI",
+              "category_type": "1",
+              "is_main_category": 1,
+              "items": []
+            },
+            {
+              "uid": "5e54becff1a02",
+              "title": "KONSER & ETKİNLİK",
+              "category_type": "1",
+              "is_main_category": 1,
+              "items": [
+                {
+                  "uid": "5e54c5e919397",
+                  "parent_uid": "5e54becff1a02",
+                  "title": "KONSER",
+                  "category_type": "1",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e54c5f740699",
+                  "parent_uid": "5e54becff1a02",
+                  "title": "İMZA GÜNÜ - SÖYLEŞİ",
+                  "category_type": "1",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e54c61ccf506",
+                  "parent_uid": "5e54becff1a02",
+                  "title": "KADINLAR MATİNESİ",
+                  "category_type": "1",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e54c62bf35db",
+                  "parent_uid": "5e54becff1a02",
+                  "title": "PARTİ",
+                  "category_type": "1",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e54c699d2e3b",
+                  "parent_uid": "5e54becff1a02",
+                  "title": "ÇOCUK EĞLENCE MERKEZİ",
+                  "category_type": "1",
+                  "is_main_category": 2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Ürünler",
+          "category_type": 2,
+          "items": {
+            "34": {
+              "uid": "5e54dd0b53082",
+              "title": "YEME & İÇME",
+              "category_type": "2",
+              "is_main_category": 1,
+              "items": [
+                {
+                  "uid": "5e567548b2a60",
+                  "parent_uid": "5e54dd0b53082",
+                  "title": "KIRMIZI ET ÜRÜNLERİ",
+                  "category_type": "2",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e567558b2be1",
+                  "parent_uid": "5e54dd0b53082",
+                  "title": "BETAZ ET ÜRÜNLERİ",
+                  "category_type": "2",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e567567923ea",
+                  "parent_uid": "5e54dd0b53082",
+                  "title": "MANGAL ÜRÜNLERİ",
+                  "category_type": "2",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e56757c5d480",
+                  "parent_uid": "5e54dd0b53082",
+                  "title": "DENİZ ÜRÜNLERİ",
+                  "category_type": "2",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e56759981b12",
+                  "parent_uid": "5e54dd0b53082",
+                  "title": "TÜRK MUTFAĞI ÜRÜNLERİ",
+                  "category_type": "2",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e5675b5bd92c",
+                  "parent_uid": "5e54dd0b53082",
+                  "title": "FASTFOOD ÜRÜNLERİ",
+                  "category_type": "2",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e5675c94a1cf",
+                  "parent_uid": "5e54dd0b53082",
+                  "title": "DÖNER ÜRÜNLERİ",
+                  "category_type": "2",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e5675dde444c",
+                  "parent_uid": "5e54dd0b53082",
+                  "title": "KAHVALTI",
+                  "category_type": "2",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e5675eea658e",
+                  "parent_uid": "5e54dd0b53082",
+                  "title": "FIRIN ÜRÜNLERİ",
+                  "category_type": "2",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e56760170f75",
+                  "parent_uid": "5e54dd0b53082",
+                  "title": "PASTA ÜRÜNLERİ",
+                  "category_type": "2",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e7a125a27eec",
+                  "parent_uid": "5e54dd0b53082",
+                  "title": "TATLI - DONDURMA ÜRÜNLERİ",
+                  "category_type": "2",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e56762c9581a",
+                  "parent_uid": "5e54dd0b53082",
+                  "title": "EV YEMEKLERİ",
+                  "category_type": "2",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e56761098c79",
+                  "parent_uid": "5e54dd0b53082",
+                  "title": "ÇİĞKÖFTE",
+                  "category_type": "2",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e56763ea0536",
+                  "parent_uid": "5e54dd0b53082",
+                  "title": "İÇECEKLER",
+                  "category_type": "2",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e56764f60428",
+                  "parent_uid": "5e54dd0b53082",
+                  "title": "TAKE A WAY ÜRÜNLERİ",
+                  "category_type": "2",
+                  "is_main_category": 2
+                }
+              ]
+            },
+            "35": {
+              "uid": "5e54dd39aa59a",
+              "title": "GIDA ALIŞVERİŞ",
+              "category_type": "2",
+              "is_main_category": 1,
+              "items": [
+                {
+                  "uid": "5e56766a7d2fe",
+                  "parent_uid": "5e54dd39aa59a",
+                  "title": "KASAP ÜRÜNLERİ",
+                  "category_type": "2",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e56767c9f67d",
+                  "parent_uid": "5e54dd39aa59a",
+                  "title": "ŞARKÜTERİ ÜRÜNLERİ",
+                  "category_type": "2",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e56768a7ec06",
+                  "parent_uid": "5e54dd39aa59a",
+                  "title": "MANAV ÜRÜNLERİ",
+                  "category_type": "2",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e5676a6bc881",
+                  "parent_uid": "5e54dd39aa59a",
+                  "title": "MARKET ÜRÜNLERİ",
+                  "category_type": "2",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e5676c0b5e53",
+                  "parent_uid": "5e54dd39aa59a",
+                  "title": "FIRIN ÜRÜNLERİ",
+                  "category_type": "2",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e5676d443042",
+                  "parent_uid": "5e54dd39aa59a",
+                  "title": "KURUYEMİŞ ÜRÜNLERİ",
+                  "category_type": "2",
+                  "is_main_category": 2
+                }
+              ]
+            },
+            "36": {
+              "uid": "5e54dd5f9688a",
+              "title": "SAĞLIK",
+              "category_type": "2",
+              "is_main_category": 1,
+              "items": [
+                {
+                  "uid": "5e5676f9ea1e3",
+                  "parent_uid": "5e54dd5f9688a",
+                  "title": "HASTANE",
+                  "category_type": "2",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e56770d16509",
+                  "parent_uid": "5e54dd5f9688a",
+                  "title": "DİŞ POLİKİLİNİĞİ",
+                  "category_type": "2",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e56771eb9fde",
+                  "parent_uid": "5e54dd5f9688a",
+                  "title": "ECZANE",
+                  "category_type": "2",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e5677321d7cf",
+                  "parent_uid": "5e54dd5f9688a",
+                  "title": "MEDİKAL",
+                  "category_type": "2",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e56775856be5",
+                  "parent_uid": "5e54dd5f9688a",
+                  "title": "PSİKOLOG",
+                  "category_type": "2",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e567767710fb",
+                  "parent_uid": "5e54dd5f9688a",
+                  "title": "DİYETİSYEN",
+                  "category_type": "2",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e5677813863d",
+                  "parent_uid": "5e54dd5f9688a",
+                  "title": "OPTİK",
+                  "category_type": "2",
+                  "is_main_category": 2
+                }
+              ]
+            },
+            "37": {
+              "uid": "5e54dd79edb50",
+              "title": "KUAFÖR & GÜZELLİK SALONU",
+              "category_type": "2",
+              "is_main_category": 1,
+              "items": [
+                {
+                  "uid": "5e567793c3a5e",
+                  "parent_uid": "5e54dd79edb50",
+                  "title": "SAÇ KESİM",
+                  "category_type": "2",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e5677a3bfae7",
+                  "parent_uid": "5e54dd79edb50",
+                  "title": "SAÇ BOYAMA",
+                  "category_type": "2",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e7a3e7728503",
+                  "parent_uid": "5e54dd79edb50",
+                  "title": "FÖN",
+                  "category_type": "2",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e7a3e919829f",
+                  "parent_uid": "5e54dd79edb50",
+                  "title": "RÖFLE & BALYAJ",
+                  "category_type": "2",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e7a3eb1b5d6e",
+                  "parent_uid": "5e54dd79edb50",
+                  "title": "SAÇ BAKIMI",
+                  "category_type": "2",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e7a3ed253cdc",
+                  "parent_uid": "5e54dd79edb50",
+                  "title": "CİLT BAKIMI",
+                  "category_type": "2",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e7a3ef8987d1",
+                  "parent_uid": "5e54dd79edb50",
+                  "title": "MANİKÜR & PEDİKÜR",
+                  "category_type": "2",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e7a3f05933ca",
+                  "parent_uid": "5e54dd79edb50",
+                  "title": "MAKYAJ",
+                  "category_type": "2",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e7a3f1825102",
+                  "parent_uid": "5e54dd79edb50",
+                  "title": "KALICI OJE",
+                  "category_type": "2",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e7a3f3391951",
+                  "parent_uid": "5e54dd79edb50",
+                  "title": "KAŞ & KİRPİK",
+                  "category_type": "2",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e7a3f40a5470",
+                  "parent_uid": "5e54dd79edb50",
+                  "title": "EPİLASYON",
+                  "category_type": "2",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e7a3f5255812",
+                  "parent_uid": "5e54dd79edb50",
+                  "title": "AĞDA",
+                  "category_type": "2",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e7a3f671c496",
+                  "parent_uid": "5e54dd79edb50",
+                  "title": "SELÜLİT TEDAVİSİ",
+                  "category_type": "2",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e7a3f7f3a1fa",
+                  "parent_uid": "5e54dd79edb50",
+                  "title": "GELİN BAŞI ",
+                  "category_type": "2",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e7a3f913a2ea",
+                  "parent_uid": "5e54dd79edb50",
+                  "title": "DAMAT TRAŞI",
+                  "category_type": "2",
+                  "is_main_category": 2
+                }
+              ]
+            },
+            "38": {
+              "uid": "5e7a159b935f1",
+              "title": "MASAJ & SPA",
+              "category_type": "2",
+              "is_main_category": 1,
+              "items": [
+                {
+                  "uid": "5e5677ca6f5dd",
+                  "parent_uid": "5e7a159b935f1",
+                  "title": "TÜRK HAMAMI",
+                  "category_type": "2",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e5677d2d3ad6",
+                  "parent_uid": "5e7a159b935f1",
+                  "title": "MASAJ - SPA",
+                  "category_type": "2",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e5677ec5ca35",
+                  "parent_uid": "5e7a159b935f1",
+                  "title": "SAUNA",
+                  "category_type": "2",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e7a4049e9db3",
+                  "parent_uid": "5e7a159b935f1",
+                  "title": "FİN HAMAMI",
+                  "category_type": "2",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e7a408f57cf7",
+                  "parent_uid": "5e7a159b935f1",
+                  "title": "KESE & KÖPÜK",
+                  "category_type": "2",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e7a40d11fdd1",
+                  "parent_uid": "5e7a159b935f1",
+                  "title": "GELİN HAMAMI",
+                  "category_type": "2",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e7a40e73f097",
+                  "parent_uid": "5e7a159b935f1",
+                  "title": "DAMAT HAMAMI",
+                  "category_type": "2",
+                  "is_main_category": 2
+                }
+              ]
+            },
+            "39": {
+              "uid": "5e54ddc341463",
+              "title": "TİYATRO & SİNEMA",
+              "category_type": "2",
+              "is_main_category": 1,
+              "items": [
+                {
+                  "uid": "5e56799c7e61e",
+                  "parent_uid": "5e54ddc341463",
+                  "title": "TİYATRO",
+                  "category_type": "2",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e5679ab5e374",
+                  "parent_uid": "5e54ddc341463",
+                  "title": "SİNEMA",
+                  "category_type": "2",
+                  "is_main_category": 2
+                }
+              ]
+            },
+            "40": {
+              "uid": "5e54ddf8deac4",
+              "title": "ELEKTRONİK",
+              "category_type": "2",
+              "is_main_category": 1,
+              "items": [
+                {
+                  "uid": "5e5679c23c289",
+                  "parent_uid": "5e54ddf8deac4",
+                  "title": "CEP TELEFONU",
+                  "category_type": "2",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e5679d34979d",
+                  "parent_uid": "5e54ddf8deac4",
+                  "title": "TELEVİZYON",
+                  "category_type": "2",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e5679f88ffba",
+                  "parent_uid": "5e54ddf8deac4",
+                  "title": "BEYAZ EŞYA - EV ALETLERİ",
+                  "category_type": "2",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e567a08d4a1e",
+                  "parent_uid": "5e54ddf8deac4",
+                  "title": "BİLGİSAYAR",
+                  "category_type": "2",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e567a1a92a90",
+                  "parent_uid": "5e54ddf8deac4",
+                  "title": "FOTOĞRAF - KAMERA",
+                  "category_type": "2",
+                  "is_main_category": 2
+                }
+              ]
+            },
+            "41": {
+              "uid": "5e54de057d63c",
+              "title": "GİYİM",
+              "category_type": "2",
+              "is_main_category": 1,
+              "items": [
+                {
+                  "uid": "5e567b6f95087",
+                  "parent_uid": "5e54de057d63c",
+                  "title": "DIŞ GİYİM",
+                  "category_type": "2",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e567b7faf23c",
+                  "parent_uid": "5e54de057d63c",
+                  "title": "İÇ GİYİM",
+                  "category_type": "2",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e567b90b9523",
+                  "parent_uid": "5e54de057d63c",
+                  "title": "TESETTÜR GİYİM",
+                  "category_type": "2",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e567ba09f142",
+                  "parent_uid": "5e54de057d63c",
+                  "title": "KONFEKSİYON",
+                  "category_type": "2",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e567bbdd0f43",
+                  "parent_uid": "5e54de057d63c",
+                  "title": "HAMİLE GİYİM",
+                  "category_type": "2",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e567bcaee5ec",
+                  "parent_uid": "5e54de057d63c",
+                  "title": "AYAKKABI",
+                  "category_type": "2",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e567bdd5990a",
+                  "parent_uid": "5e54de057d63c",
+                  "title": "ÇANTA",
+                  "category_type": "2",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e567c05c4d99",
+                  "parent_uid": "5e54de057d63c",
+                  "title": "SPOR GİYİM",
+                  "category_type": "2",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e567c1d62ce2",
+                  "parent_uid": "5e54de057d63c",
+                  "title": "ÇOCUK GİYİM",
+                  "category_type": "2",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e567c2eb1754",
+                  "parent_uid": "5e54de057d63c",
+                  "title": "GELİNLİK - ABİYE",
+                  "category_type": "2",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e567c4b2ab4a",
+                  "parent_uid": "5e54de057d63c",
+                  "title": "AKSESUAR",
+                  "category_type": "2",
+                  "is_main_category": 2
+                }
+              ]
+            },
+            "42": {
+              "uid": "5e54de2657911",
+              "title": "EĞİTİM & KURSLAR",
+              "category_type": "2",
+              "is_main_category": 1,
+              "items": [
+                {
+                  "uid": "5e567cbd7cf6d",
+                  "parent_uid": "5e54de2657911",
+                  "title": "ÖZEL OKULLAR",
+                  "category_type": "2",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e567cdd1cc5f",
+                  "parent_uid": "5e54de2657911",
+                  "title": "ÖZEL DERSLER",
+                  "category_type": "2",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e567cf8a8baa",
+                  "parent_uid": "5e54de2657911",
+                  "title": "DİL KURSLARI",
+                  "category_type": "2",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e567d0d11c78",
+                  "parent_uid": "5e54de2657911",
+                  "title": "SÜRÜCÜ KURSLARI",
+                  "category_type": "2",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e567d2662893",
+                  "parent_uid": "5e54de2657911",
+                  "title": "GÜZEL SANATLAR KURSU",
+                  "category_type": "2",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e567d3e57dc4",
+                  "parent_uid": "5e54de2657911",
+                  "title": "DANS VE HALK OYUNLARI",
+                  "category_type": "2",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e567d4e36f71",
+                  "parent_uid": "5e54de2657911",
+                  "title": "ÖĞRENCİ YURTLARI",
+                  "category_type": "2",
+                  "is_main_category": 2
+                }
+              ]
+            },
+            "43": {
+              "uid": "5e54de92b2c42",
+              "title": "KONAKLAMA & SEYAHAT",
+              "category_type": "2",
+              "is_main_category": 1,
+              "items": [
+                {
+                  "uid": "5e5680172da6c",
+                  "parent_uid": "5e54de92b2c42",
+                  "title": "OTEL",
+                  "category_type": "2",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e56802c6dbcf",
+                  "parent_uid": "5e54de92b2c42",
+                  "title": "TERMAL OTEL",
+                  "category_type": "2",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e5680537f9a7",
+                  "parent_uid": "5e54de92b2c42",
+                  "title": "İSTANBUL TURU",
+                  "category_type": "2",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e56806c16d2c",
+                  "parent_uid": "5e54de92b2c42",
+                  "title": "SEYEHAT",
+                  "category_type": "2",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e56808685272",
+                  "parent_uid": "5e54de92b2c42",
+                  "title": "TAKSİ",
+                  "category_type": "2",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e7a4216c7532",
+                  "parent_uid": "5e54de92b2c42",
+                  "title": "KAPADOKYA TURU",
+                  "category_type": "2",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e7a422daa81d",
+                  "parent_uid": "5e54de92b2c42",
+                  "title": "BURSA ULUDAĞ TURU",
+                  "category_type": "2",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e7a42e992af9",
+                  "parent_uid": "5e54de92b2c42",
+                  "title": "YURTDIŞI TURLARI",
+                  "category_type": "2",
+                  "is_main_category": 2
+                }
+              ]
+            },
+            "44": {
+              "uid": "5e54dea877530",
+              "title": "MOBİLYA & ZÜCCACİYE",
+              "category_type": "2",
+              "is_main_category": 1,
+              "items": [
+                {
+                  "uid": "5e56813063c14",
+                  "parent_uid": "5e54dea877530",
+                  "title": "OFİS MOBİLYALARI",
+                  "category_type": "2",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e56813f0c0f4",
+                  "parent_uid": "5e54dea877530",
+                  "title": "EV MOBİLYASI",
+                  "category_type": "2",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e56814e1098f",
+                  "parent_uid": "5e54dea877530",
+                  "title": "ÇOCUK MOBİLYASI",
+                  "category_type": "2",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e56816039d84",
+                  "parent_uid": "5e54dea877530",
+                  "title": "MASA - SANDALYE",
+                  "category_type": "2",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e56816ed7bb6",
+                  "parent_uid": "5e54dea877530",
+                  "title": "YATAK",
+                  "category_type": "2",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e568180c6a18",
+                  "parent_uid": "5e54dea877530",
+                  "title": "HALI - PERDE",
+                  "category_type": "2",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e56819244c25",
+                  "parent_uid": "5e54dea877530",
+                  "title": "ÇEYİZ",
+                  "category_type": "2",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e56819e572ec",
+                  "parent_uid": "5e54dea877530",
+                  "title": "ZÜCCACİYE",
+                  "category_type": "2",
+                  "is_main_category": 2
+                }
+              ]
+            },
+            "45": {
+              "uid": "5e54deb9afc18",
+              "title": "SPOR VE TESİSLERİ",
+              "category_type": "2",
+              "is_main_category": 1,
+              "items": [
+                {
+                  "uid": "5e576af1091c0",
+                  "parent_uid": "5e54deb9afc18",
+                  "title": "HALI SAHA",
+                  "category_type": "2",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e576b0d0bc4e",
+                  "parent_uid": "5e54deb9afc18",
+                  "title": "SPOR SALONU",
+                  "category_type": "2",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e576b19e94d8",
+                  "parent_uid": "5e54deb9afc18",
+                  "title": "SPOR KLÜPLERİ",
+                  "category_type": "2",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e576b2631456",
+                  "parent_uid": "5e54deb9afc18",
+                  "title": "REFORMER",
+                  "category_type": "2",
+                  "is_main_category": 2
+                }
+              ]
+            },
+            "46": {
+              "uid": "5e54dedd7f49a",
+              "title": "NAKLİYE & VİNÇ",
+              "category_type": "2",
+              "is_main_category": 1,
+              "items": [
+                {
+                  "uid": "5e576b553ca67",
+                  "parent_uid": "5e54dedd7f49a",
+                  "title": "EVDEN EVE TAŞIMACILIK",
+                  "category_type": "2",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e576b64cb25a",
+                  "parent_uid": "5e54dedd7f49a",
+                  "title": "KARGO - AMBAR",
+                  "category_type": "2",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e576b769cd84",
+                  "parent_uid": "5e54dedd7f49a",
+                  "title": "KURYE",
+                  "category_type": "2",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e576b89a1fea",
+                  "parent_uid": "5e54dedd7f49a",
+                  "title": "ŞEHİRLER ARASI NAKLİYE",
+                  "category_type": "2",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e576b963deea",
+                  "parent_uid": "5e54dedd7f49a",
+                  "title": "VİNÇ",
+                  "category_type": "2",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e576ba453c2e",
+                  "parent_uid": "5e54dedd7f49a",
+                  "title": "KURTARICI",
+                  "category_type": "2",
+                  "is_main_category": 2
+                }
+              ]
+            },
+            "47": {
+              "uid": "5e54df03bf0bb",
+              "title": "İNŞAAT MALZEMELERİ",
+              "category_type": "2",
+              "is_main_category": 1,
+              "items": [
+                {
+                  "uid": "5e576f684db77",
+                  "parent_uid": "5e54df03bf0bb",
+                  "title": "İNŞAAT MALZEMESİ",
+                  "category_type": "2",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e576fcdb88a3",
+                  "parent_uid": "5e54df03bf0bb",
+                  "title": "ELEKTRİK MALZEMESİ",
+                  "category_type": "2",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e576fe2ceb59",
+                  "parent_uid": "5e54df03bf0bb",
+                  "title": "BETON TESİSLERİ",
+                  "category_type": "2",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e576ff0e63a1",
+                  "parent_uid": "5e54df03bf0bb",
+                  "title": "TAŞ OCAĞI",
+                  "category_type": "2",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e57700236358",
+                  "parent_uid": "5e54df03bf0bb",
+                  "title": "KOMBİ - DOĞALGAZ",
+                  "category_type": "2",
+                  "is_main_category": 2
+                }
+              ]
+            },
+            "48": {
+              "uid": "5e57770777a7b",
+              "title": "İNŞAAT TAŞERONLARI",
+              "category_type": "2",
+              "is_main_category": 1,
+              "items": []
+            },
+            "49": {
+              "uid": "5e54df15686ac",
+              "title": "TEMİZLİK",
+              "category_type": "2",
+              "is_main_category": 1,
+              "items": [
+                {
+                  "uid": "5e57725bb4637",
+                  "parent_uid": "5e54df15686ac",
+                  "title": "EV - APARTMAN TEMİZLİĞİ",
+                  "category_type": "2",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e57728d65bb9",
+                  "parent_uid": "5e54df15686ac",
+                  "title": "OTO TEMİZLİĞİ",
+                  "category_type": "2",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e577ab4c2e24",
+                  "parent_uid": "5e54df15686ac",
+                  "title": "HALI PERDE YIKAMA",
+                  "category_type": "2",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e577ad3c1f87",
+                  "parent_uid": "5e54df15686ac",
+                  "title": "KOLTUK - DÖŞEME",
+                  "category_type": "2",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e577af078048",
+                  "parent_uid": "5e54df15686ac",
+                  "title": "KURU TEMİZLEME",
+                  "category_type": "2",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e577b1e1d207",
+                  "parent_uid": "5e54df15686ac",
+                  "title": "ELBİSE YIKAMA - ÜTÜ",
+                  "category_type": "2",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e577b32959b0",
+                  "parent_uid": "5e54df15686ac",
+                  "title": "İLAÇLAMA",
+                  "category_type": "2",
+                  "is_main_category": 2
+                }
+              ]
+            },
+            "50": {
+              "uid": "5e54df322aa94",
+              "title": "KUYUMCU & GÜMÜŞ TAKI",
+              "category_type": "2",
+              "is_main_category": 1,
+              "items": [
+                {
+                  "uid": "5e5777402b74e",
+                  "parent_uid": "5e54df322aa94",
+                  "title": "KUYUMCU",
+                  "category_type": "2",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e57774c26f84",
+                  "parent_uid": "5e54df322aa94",
+                  "title": "GÜMÜŞ TAKI",
+                  "category_type": "2",
+                  "is_main_category": 2
+                }
+              ]
+            },
+            "51": {
+              "uid": "5e54df50c4ef6",
+              "title": "DÜĞÜN & ORGANİZASYON",
+              "category_type": "2",
+              "is_main_category": 1,
+              "items": [
+                {
+                  "uid": "5e57776c53ae5",
+                  "parent_uid": "5e54df50c4ef6",
+                  "title": "DÜĞÜN SALONU",
+                  "category_type": "2",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e57778739faa",
+                  "parent_uid": "5e54df50c4ef6",
+                  "title": "ÖZEL GÜN ORGANİZASYON",
+                  "category_type": "2",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e5777c276dc8",
+                  "parent_uid": "5e54df50c4ef6",
+                  "title": "IŞIK - SES SİSTEMLERİ ORGANİZASYONU",
+                  "category_type": "2",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e57788688a19",
+                  "parent_uid": "5e54df50c4ef6",
+                  "title": "ALBÜM ÇEKİMLERİ",
+                  "category_type": "2",
+                  "is_main_category": 2
+                }
+              ]
+            },
+            "52": {
+              "uid": "5e54df665e57b",
+              "title": "MUTFAK & BANYO",
+              "category_type": "2",
+              "is_main_category": 1,
+              "items": []
+            },
+            "53": {
+              "uid": "5e54df71d42d9",
+              "title": "SİGORTA & KASKO",
+              "category_type": "2",
+              "is_main_category": 1,
+              "items": []
+            },
+            "54": {
+              "uid": "5e54df802d5dc",
+              "title": "VASITA",
+              "category_type": "2",
+              "is_main_category": 1,
+              "items": [
+                {
+                  "uid": "5e577e5756e71",
+                  "parent_uid": "5e54df802d5dc",
+                  "title": "OTOMOTİV",
+                  "category_type": "2",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e577e63e7264",
+                  "parent_uid": "5e54df802d5dc",
+                  "title": "OTOGALERİ",
+                  "category_type": "2",
+                  "is_main_category": 2
+                }
+              ]
+            },
+            "55": {
+              "uid": "5e54dfbea255d",
+              "title": "AKARYAKIT",
+              "category_type": "2",
+              "is_main_category": 1,
+              "items": []
+            },
+            "56": {
+              "uid": "5e56384b38d5a",
+              "title": "KOZMETİK & PARFÜMERİ",
+              "category_type": "2",
+              "is_main_category": 1,
+              "items": [
+                {
+                  "uid": "5e5678d585cf6",
+                  "parent_uid": "5e56384b38d5a",
+                  "title": "KOZMETİK",
+                  "category_type": "2",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e5678e549bbb",
+                  "parent_uid": "5e56384b38d5a",
+                  "title": "PARFÜMERİ",
+                  "category_type": "2",
+                  "is_main_category": 2
+                }
+              ]
+            },
+            "57": {
+              "uid": "5e577eb1a3c57",
+              "title": "PVC PENCERE & BALKON KAPAMA",
+              "category_type": "2",
+              "is_main_category": 1,
+              "items": []
+            },
+            "58": {
+              "uid": "5e577ec0c4369",
+              "title": "REKLAM & TABELA",
+              "category_type": "2",
+              "is_main_category": 1,
+              "items": []
+            },
+            "59": {
+              "uid": "5e577ed4a41e9",
+              "title": "MATBAA & OFSET",
+              "category_type": "2",
+              "is_main_category": 1,
+              "items": []
+            },
+            "60": {
+              "uid": "5e577ef7e13e7",
+              "title": "RENT A CAR",
+              "category_type": "2",
+              "is_main_category": 1,
+              "items": []
+            },
+            "61": {
+              "uid": "5e577f05dcbef",
+              "title": "OTO EKSPERTİZ",
+              "category_type": "2",
+              "is_main_category": 1,
+              "items": []
+            },
+            "62": {
+              "uid": "5e577f1332366",
+              "title": "ÇİLİNGİR",
+              "category_type": "2",
+              "is_main_category": 1,
+              "items": []
+            },
+            "63": {
+              "uid": "5e577f237dffa",
+              "title": "ÇİÇEKCİ",
+              "category_type": "2",
+              "is_main_category": 1,
+              "items": []
+            },
+            "64": {
+              "uid": "5e577f39213c7",
+              "title": "KİTAP & KIRTASİYE",
+              "category_type": "2",
+              "is_main_category": 1,
+              "items": []
+            },
+            "65": {
+              "uid": "5e577f4d9c650",
+              "title": "PET SHOP & VETERİNER",
+              "category_type": "2",
+              "is_main_category": 1,
+              "items": []
+            },
+            "66": {
+              "uid": "5e577f70dfdc9",
+              "title": "WEB & GRAFİKER & PROGRAM",
+              "category_type": "2",
+              "is_main_category": 1,
+              "items": []
+            },
+            "67": {
+              "uid": "5e54dd912f9bf",
+              "title": "KONSER & ETKİNLİK",
+              "category_type": "2",
+              "is_main_category": 1,
+              "items": [
+                {
+                  "uid": "5e56791d69955",
+                  "parent_uid": "5e54dd912f9bf",
+                  "title": "KONSER",
+                  "category_type": "2",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e56792f2fd7f",
+                  "parent_uid": "5e54dd912f9bf",
+                  "title": "İMZA GÜNÜ - SÖYLEŞİ",
+                  "category_type": "2",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e567943b0cac",
+                  "parent_uid": "5e54dd912f9bf",
+                  "title": "KADINLAR MATİNESİ",
+                  "category_type": "2",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e56795162016",
+                  "parent_uid": "5e54dd912f9bf",
+                  "title": "PARTİ",
+                  "category_type": "2",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e5679672e544",
+                  "parent_uid": "5e54dd912f9bf",
+                  "title": "ÇOCUK EĞLENCE MERKEZİ",
+                  "category_type": "2",
+                  "is_main_category": 2
+                }
+              ]
+            }
+          }
+        },
+        {
+          "title": "Kampanyalar",
+          "category_type": 3,
+          "items": {
+            "68": {
+              "uid": "5e7f4193470ad",
+              "title": "Kampanya Test kategori",
+              "category_type": "3",
+              "is_main_category": 1,
+              "items": [
+                {
+                  "uid": "5e7f41b824d13",
+                  "parent_uid": "5e7f4193470ad",
+                  "title": "kampanya alt kategori test",
+                  "category_type": "3",
+                  "is_main_category": 2
+                }
+              ]
+            },
+            "69": {
+              "uid": "5e806effdd909",
+              "title": "YEME & İÇME",
+              "category_type": "3",
+              "is_main_category": 1,
+              "items": [
+                {
+                  "uid": "5e81934f7b711",
+                  "parent_uid": "5e806effdd909",
+                  "title": "RESTAURANT ",
+                  "category_type": "3",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e81937342120",
+                  "parent_uid": "5e806effdd909",
+                  "title": "LOKANTA ",
+                  "category_type": "3",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e8193cd3d45d",
+                  "parent_uid": "5e806effdd909",
+                  "title": "MANGAL ",
+                  "category_type": "3",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e8193ea4be4b",
+                  "parent_uid": "5e806effdd909",
+                  "title": "DENİZ ÜRÜNLERİ ",
+                  "category_type": "3",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e81941e076dc",
+                  "parent_uid": "5e806effdd909",
+                  "title": "TÜRK MUTFAĞI ",
+                  "category_type": "3",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e8194358b2b4",
+                  "parent_uid": "5e806effdd909",
+                  "title": "FASTFOOD ",
+                  "category_type": "3",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e819465bd41d",
+                  "parent_uid": "5e806effdd909",
+                  "title": "DÖNERCİ ",
+                  "category_type": "3",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e8194ba42c86",
+                  "parent_uid": "5e806effdd909",
+                  "title": "KAHVALTI ",
+                  "category_type": "3",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e8194d32b589",
+                  "parent_uid": "5e806effdd909",
+                  "title": "FIRIN ÜRÜNLERİ ",
+                  "category_type": "3",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e8194fe576db",
+                  "parent_uid": "5e806effdd909",
+                  "title": "PASTA VE TATLI ",
+                  "category_type": "3",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e8195144eb2a",
+                  "parent_uid": "5e806effdd909",
+                  "title": "ÇİĞKÖFTE ",
+                  "category_type": "3",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e81953ca17b9",
+                  "parent_uid": "5e806effdd909",
+                  "title": "CAFE & BİSTRO ",
+                  "category_type": "3",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e8195565a8fb",
+                  "parent_uid": "5e806effdd909",
+                  "title": "TAKE A WAY ",
+                  "category_type": "3",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e81957678262",
+                  "parent_uid": "5e806effdd909",
+                  "title": "EV YEMEKÇİLERİNİN KAMPANLARI",
+                  "category_type": "3",
+                  "is_main_category": 2
+                }
+              ]
+            },
+            "70": {
+              "uid": "5e806f22e5553",
+              "title": "GIDA ALIŞVERİŞ",
+              "category_type": "3",
+              "is_main_category": 1,
+              "items": [
+                {
+                  "uid": "5e81959105240",
+                  "parent_uid": "5e806f22e5553",
+                  "title": "KASAP ",
+                  "category_type": "3",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e81965cf01e2",
+                  "parent_uid": "5e806f22e5553",
+                  "title": "ŞARKÜTERİ ",
+                  "category_type": "3",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e8196790e2f8",
+                  "parent_uid": "5e806f22e5553",
+                  "title": "MANAV ",
+                  "category_type": "3",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e819693e9e8b",
+                  "parent_uid": "5e806f22e5553",
+                  "title": "MARKET ",
+                  "category_type": "3",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e8196a523b22",
+                  "parent_uid": "5e806f22e5553",
+                  "title": "FIRIN ",
+                  "category_type": "3",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e8196bd30783",
+                  "parent_uid": "5e806f22e5553",
+                  "title": "KURUYEMİŞ ",
+                  "category_type": "3",
+                  "is_main_category": 2
+                }
+              ]
+            },
+            "71": {
+              "uid": "5e806f307e142",
+              "title": "SAĞLIK",
+              "category_type": "3",
+              "is_main_category": 1,
+              "items": [
+                {
+                  "uid": "5e8197100a48b",
+                  "parent_uid": "5e806f307e142",
+                  "title": "HASTANE ",
+                  "category_type": "3",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e8197238a41f",
+                  "parent_uid": "5e806f307e142",
+                  "title": "DİŞ POLİKİLİNİĞİ ",
+                  "category_type": "3",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e8197323a3e8",
+                  "parent_uid": "5e806f307e142",
+                  "title": "ECZANE ",
+                  "category_type": "3",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e819749e1094",
+                  "parent_uid": "5e806f307e142",
+                  "title": "MEDİCAL ",
+                  "category_type": "3",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e819759756de",
+                  "parent_uid": "5e806f307e142",
+                  "title": "PSİKOLOG ",
+                  "category_type": "3",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e81976ca0946",
+                  "parent_uid": "5e806f307e142",
+                  "title": "DİYETİSYEN ",
+                  "category_type": "3",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e81977e14a79",
+                  "parent_uid": "5e806f307e142",
+                  "title": "OPTİK ",
+                  "category_type": "3",
+                  "is_main_category": 2
+                }
+              ]
+            },
+            "72": {
+              "uid": "5e806f48835fd",
+              "title": "KUAFÖR & GÜZELLİK SALONU",
+              "category_type": "3",
+              "is_main_category": 1,
+              "items": [
+                {
+                  "uid": "5e8198433e40d",
+                  "parent_uid": "5e806f48835fd",
+                  "title": "GÜZELLİK SALONU ",
+                  "category_type": "3",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e81985837b5e",
+                  "parent_uid": "5e806f48835fd",
+                  "title": "KUAFÖR ",
+                  "category_type": "3",
+                  "is_main_category": 2
+                }
+              ]
+            },
+            "73": {
+              "uid": "5e806f6acfd08",
+              "title": "MASAJ & SPA",
+              "category_type": "3",
+              "is_main_category": 1,
+              "items": [
+                {
+                  "uid": "5e81987e87365",
+                  "parent_uid": "5e806f6acfd08",
+                  "title": "MASAJ VE SPA",
+                  "category_type": "3",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e8198d6ec02d",
+                  "parent_uid": "5e806f6acfd08",
+                  "title": "HAMAM ",
+                  "category_type": "3",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e8198e3ec51e",
+                  "parent_uid": "5e806f6acfd08",
+                  "title": "SAUNA ",
+                  "category_type": "3",
+                  "is_main_category": 2
+                }
+              ]
+            },
+            "74": {
+              "uid": "5e806fcc2e2e6",
+              "title": "TİYATRO & SİNEMA",
+              "category_type": "3",
+              "is_main_category": 1,
+              "items": [
+                {
+                  "uid": "5e8198fdce7c4",
+                  "parent_uid": "5e806fcc2e2e6",
+                  "title": "TİYATRO ",
+                  "category_type": "3",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e81990a55025",
+                  "parent_uid": "5e806fcc2e2e6",
+                  "title": "SİNEMA ",
+                  "category_type": "3",
+                  "is_main_category": 2
+                }
+              ]
+            },
+            "75": {
+              "uid": "5e806fde8adb8",
+              "title": "ELEKTRONİK",
+              "category_type": "3",
+              "is_main_category": 1,
+              "items": [
+                {
+                  "uid": "5e81a46d2a3ca",
+                  "parent_uid": "5e806fde8adb8",
+                  "title": "CEP TELEFONU ",
+                  "category_type": "3",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e81a48ca92cb",
+                  "parent_uid": "5e806fde8adb8",
+                  "title": "TELEVİZYON ",
+                  "category_type": "3",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e81a4a7691ac",
+                  "parent_uid": "5e806fde8adb8",
+                  "title": "BEYAZ EŞYA - EV ALETLERİ ",
+                  "category_type": "3",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e81a4cb89524",
+                  "parent_uid": "5e806fde8adb8",
+                  "title": "BİLGİSAYAR ",
+                  "category_type": "3",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e81a4e03c8a6",
+                  "parent_uid": "5e806fde8adb8",
+                  "title": "FOTOĞRAF - KAMERA ",
+                  "category_type": "3",
+                  "is_main_category": 2
+                }
+              ]
+            },
+            "76": {
+              "uid": "5e806feb7bf5a",
+              "title": "GİYİM",
+              "category_type": "3",
+              "is_main_category": 1,
+              "items": [
+                {
+                  "uid": "5e81a547bb180",
+                  "parent_uid": "5e806feb7bf5a",
+                  "title": "DIŞ GİYİM ",
+                  "category_type": "3",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e81a55581c8c",
+                  "parent_uid": "5e806feb7bf5a",
+                  "title": "İÇ GİYİM ",
+                  "category_type": "3",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e81a5778686d",
+                  "parent_uid": "5e806feb7bf5a",
+                  "title": "TESETTÜR  GİYİM ",
+                  "category_type": "3",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e81a5953e268",
+                  "parent_uid": "5e806feb7bf5a",
+                  "title": "KONFEKSİYON ",
+                  "category_type": "3",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e81a5aa2a27e",
+                  "parent_uid": "5e806feb7bf5a",
+                  "title": "HAMİLE GİYİM ",
+                  "category_type": "3",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e81a5d49ddcc",
+                  "parent_uid": "5e806feb7bf5a",
+                  "title": "AYAKKABI ",
+                  "category_type": "3",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e81a5ed6352a",
+                  "parent_uid": "5e806feb7bf5a",
+                  "title": "ÇANTA ",
+                  "category_type": "3",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e81a60e1eebd",
+                  "parent_uid": "5e806feb7bf5a",
+                  "title": "SPOR GİYİM ",
+                  "category_type": "3",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e81a6261ec4d",
+                  "parent_uid": "5e806feb7bf5a",
+                  "title": "ÇOCUK GİYİM ",
+                  "category_type": "3",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e81a644e5c7e",
+                  "parent_uid": "5e806feb7bf5a",
+                  "title": "GELİNLİK - ABİYE ",
+                  "category_type": "3",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e81a655bfb19",
+                  "parent_uid": "5e806feb7bf5a",
+                  "title": "AKSESUAR ",
+                  "category_type": "3",
+                  "is_main_category": 2
+                }
+              ]
+            },
+            "77": {
+              "uid": "5e806ffeca670",
+              "title": "EĞİTİM & KURSLAR",
+              "category_type": "3",
+              "is_main_category": 1,
+              "items": [
+                {
+                  "uid": "5e81a689ba2dd",
+                  "parent_uid": "5e806ffeca670",
+                  "title": "ÖZEL OKUL ",
+                  "category_type": "3",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e81a69de03d5",
+                  "parent_uid": "5e806ffeca670",
+                  "title": "ÖZEL DERS ",
+                  "category_type": "3",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e81a6b321f21",
+                  "parent_uid": "5e806ffeca670",
+                  "title": "DİL KURSU ",
+                  "category_type": "3",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e81a6c5980c2",
+                  "parent_uid": "5e806ffeca670",
+                  "title": "SÜRÜCÜ KURSU ",
+                  "category_type": "3",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e81a6f3d0976",
+                  "parent_uid": "5e806ffeca670",
+                  "title": "GÜZEL SANATLAR KURS ",
+                  "category_type": "3",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e81a72400797",
+                  "parent_uid": "5e806ffeca670",
+                  "title": "DANS - HALK OYUNLARI ",
+                  "category_type": "3",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e81a74168e9e",
+                  "parent_uid": "5e806ffeca670",
+                  "title": "ÖĞRENCİ YURDU ",
+                  "category_type": "3",
+                  "is_main_category": 2
+                }
+              ]
+            },
+            "78": {
+              "uid": "5e8070159de45",
+              "title": "KONAKLAMA & SEYAHAT",
+              "category_type": "3",
+              "is_main_category": 1,
+              "items": [
+                {
+                  "uid": "5e81a98f39e57",
+                  "parent_uid": "5e8070159de45",
+                  "title": "OTEL ",
+                  "category_type": "3",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e81a9c42f2ba",
+                  "parent_uid": "5e8070159de45",
+                  "title": "TERMAL OTEL ",
+                  "category_type": "3",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e81a9e14694b",
+                  "parent_uid": "5e8070159de45",
+                  "title": "TUR FİRMASI ",
+                  "category_type": "3",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e81a9f2ec4f3",
+                  "parent_uid": "5e8070159de45",
+                  "title": "OTOBÜS FİRMASI ",
+                  "category_type": "3",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e81aa17da877",
+                  "parent_uid": "5e8070159de45",
+                  "title": "TAKSİ ",
+                  "category_type": "3",
+                  "is_main_category": 2
+                }
+              ]
+            },
+            "79": {
+              "uid": "5e80703ec21fe",
+              "title": "MOBİLYA & ZÜCCACİYE",
+              "category_type": "3",
+              "is_main_category": 1,
+              "items": [
+                {
+                  "uid": "5e81aa82bc95d",
+                  "parent_uid": "5e80703ec21fe",
+                  "title": "OFİS MOBİLYASI ",
+                  "category_type": "3",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e81aab2e4163",
+                  "parent_uid": "5e80703ec21fe",
+                  "title": "EV MOBİLYASI ",
+                  "category_type": "3",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e81aad952bb6",
+                  "parent_uid": "5e80703ec21fe",
+                  "title": "ÇOCUK MOBİLYASI ",
+                  "category_type": "3",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e81ab3f0f1de",
+                  "parent_uid": "5e80703ec21fe",
+                  "title": "MASA SANDALYE ",
+                  "category_type": "3",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e81b100ae13e",
+                  "parent_uid": "5e80703ec21fe",
+                  "title": "YATAK ",
+                  "category_type": "3",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e81b11151c35",
+                  "parent_uid": "5e80703ec21fe",
+                  "title": "HALI PERDE ",
+                  "category_type": "3",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e81b122ee48f",
+                  "parent_uid": "5e80703ec21fe",
+                  "title": "ÇEYİZ ",
+                  "category_type": "3",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e81b13f87b86",
+                  "parent_uid": "5e80703ec21fe",
+                  "title": "ZÜCCACİYE ",
+                  "category_type": "3",
+                  "is_main_category": 2
+                }
+              ]
+            },
+            "80": {
+              "uid": "5e807051b88fd",
+              "title": "SPOR VE TESİSLERİ",
+              "category_type": "3",
+              "is_main_category": 1,
+              "items": [
+                {
+                  "uid": "5e81b2fc79182",
+                  "parent_uid": "5e807051b88fd",
+                  "title": "HALI SAHA ",
+                  "category_type": "3",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e81b33967679",
+                  "parent_uid": "5e807051b88fd",
+                  "title": "SPOR SALONU ",
+                  "category_type": "3",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e81b50ccb82b",
+                  "parent_uid": "5e807051b88fd",
+                  "title": "SPOR KULÜBÜ ",
+                  "category_type": "3",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e81b51c1af89",
+                  "parent_uid": "5e807051b88fd",
+                  "title": "REFORMER ",
+                  "category_type": "3",
+                  "is_main_category": 2
+                }
+              ]
+            },
+            "81": {
+              "uid": "5e8070e32853f",
+              "title": "NAKLİYE & VİNÇ",
+              "category_type": "3",
+              "is_main_category": 1,
+              "items": [
+                {
+                  "uid": "5e81b62484f79",
+                  "parent_uid": "5e8070e32853f",
+                  "title": "EVDEN EVE TAŞIMACILIK ",
+                  "category_type": "3",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e81b63b7fa0e",
+                  "parent_uid": "5e8070e32853f",
+                  "title": "AMBAR VE KARGO ",
+                  "category_type": "3",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e81b65541291",
+                  "parent_uid": "5e8070e32853f",
+                  "title": "KURYE ",
+                  "category_type": "3",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e81b671a5cb0",
+                  "parent_uid": "5e8070e32853f",
+                  "title": "ŞEHİRLER ARASI NAKLİYE ",
+                  "category_type": "3",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e81b68eb9c14",
+                  "parent_uid": "5e8070e32853f",
+                  "title": "VİNÇ ",
+                  "category_type": "3",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e81b69e1bc05",
+                  "parent_uid": "5e8070e32853f",
+                  "title": "KURTARICI ",
+                  "category_type": "3",
+                  "is_main_category": 2
+                }
+              ]
+            },
+            "82": {
+              "uid": "5e807105ceffb",
+              "title": "İNŞAAT MALZEMELERİ",
+              "category_type": "3",
+              "is_main_category": 1,
+              "items": [
+                {
+                  "uid": "5e81b6dd79630",
+                  "parent_uid": "5e807105ceffb",
+                  "title": "İNŞAAT MALZEMELERİ ",
+                  "category_type": "3",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e81b6f577de1",
+                  "parent_uid": "5e807105ceffb",
+                  "title": "ELEKTRİK MALZEMELERİ ",
+                  "category_type": "3",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e81b7129faa4",
+                  "parent_uid": "5e807105ceffb",
+                  "title": "BETON TESİSİ ",
+                  "category_type": "3",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e81b7249d952",
+                  "parent_uid": "5e807105ceffb",
+                  "title": "TAŞ OCAKLARI ",
+                  "category_type": "3",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e81b74377529",
+                  "parent_uid": "5e807105ceffb",
+                  "title": "KOMBİ VE DOĞALGAZ ",
+                  "category_type": "3",
+                  "is_main_category": 2
+                }
+              ]
+            },
+            "83": {
+              "uid": "5e80711a2c551",
+              "title": "İNŞAAT TAŞERONLARI",
+              "category_type": "3",
+              "is_main_category": 1,
+              "items": [
+                {
+                  "uid": "5e81b821c1570",
+                  "parent_uid": "5e80711a2c551",
+                  "title": "ALÇI - SATEN - BOYA ",
+                  "category_type": "3",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e81b83bf1a98",
+                  "parent_uid": "5e80711a2c551",
+                  "title": "ASMA TAVAN ",
+                  "category_type": "3",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e81b86582aa5",
+                  "parent_uid": "5e80711a2c551",
+                  "title": "ÇATI İŞİ ",
+                  "category_type": "3",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e81b8792e12e",
+                  "parent_uid": "5e80711a2c551",
+                  "title": "ZEMİN KAPLAMA ",
+                  "category_type": "3",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e81b8a7808b5",
+                  "parent_uid": "5e80711a2c551",
+                  "title": "DUVAR - CEPHE KAPLAMA ",
+                  "category_type": "3",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e81b8b8c2d37",
+                  "parent_uid": "5e80711a2c551",
+                  "title": "YENİ İNŞAAT YAPIM ",
+                  "category_type": "3",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e81b8dec7080",
+                  "parent_uid": "5e80711a2c551",
+                  "title": "DEMİR DOĞRAMA ",
+                  "category_type": "3",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e81b8eebb525",
+                  "parent_uid": "5e80711a2c551",
+                  "title": "ASANSÖR ",
+                  "category_type": "3",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e81b917cdfb6",
+                  "parent_uid": "5e80711a2c551",
+                  "title": "ELEKTRİK - UYDU ",
+                  "category_type": "3",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e81b92c2f6d5",
+                  "parent_uid": "5e80711a2c551",
+                  "title": "TESİSAT DOĞALGAZ ",
+                  "category_type": "3",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e81b9615d775",
+                  "parent_uid": "5e80711a2c551",
+                  "title": "HAFRİYAT İŞİ ",
+                  "category_type": "3",
+                  "is_main_category": 2
+                }
+              ]
+            },
+            "84": {
+              "uid": "5e80712bd66cd",
+              "title": "TEMİZLİK",
+              "category_type": "3",
+              "is_main_category": 1,
+              "items": [
+                {
+                  "uid": "5e81ba923f552",
+                  "parent_uid": "5e80712bd66cd",
+                  "title": "EV VE APARTMAN TEMİZLİĞİ ",
+                  "category_type": "3",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e81baa08d14c",
+                  "parent_uid": "5e80712bd66cd",
+                  "title": "OTO TEMİZLİK ",
+                  "category_type": "3",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e81bab6707cc",
+                  "parent_uid": "5e80712bd66cd",
+                  "title": "HALI PERDE YIKAMA ",
+                  "category_type": "3",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e81bacec76bd",
+                  "parent_uid": "5e80712bd66cd",
+                  "title": "KOLTUK DÖŞEME YIKAMA ",
+                  "category_type": "3",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e81baf50802c",
+                  "parent_uid": "5e80712bd66cd",
+                  "title": "ELBİSE YIKAMA VE ÜTÜ ",
+                  "category_type": "3",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e81bb047e38d",
+                  "parent_uid": "5e80712bd66cd",
+                  "title": "KURU TEMİZLEME ",
+                  "category_type": "3",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e81bb134930e",
+                  "parent_uid": "5e80712bd66cd",
+                  "title": "İLAÇLAMA ",
+                  "category_type": "3",
+                  "is_main_category": 2
+                }
+              ]
+            },
+            "85": {
+              "uid": "5e80714bc6c66",
+              "title": "KUYUMCU & GÜMÜŞ TAKI",
+              "category_type": "3",
+              "is_main_category": 1,
+              "items": [
+                {
+                  "uid": "5e81bb2651dd0",
+                  "parent_uid": "5e80714bc6c66",
+                  "title": "KUYUMCU ",
+                  "category_type": "3",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e81bb3be66e1",
+                  "parent_uid": "5e80714bc6c66",
+                  "title": "GÜMÜŞ TAKI ",
+                  "category_type": "3",
+                  "is_main_category": 2
+                }
+              ]
+            },
+            "86": {
+              "uid": "5e80716c563d6",
+              "title": "DÜĞÜN & ORGANİZASYON",
+              "category_type": "3",
+              "is_main_category": 1,
+              "items": [
+                {
+                  "uid": "5e81bb5b1a9b9",
+                  "parent_uid": "5e80716c563d6",
+                  "title": "DÜĞÜN SALONU ",
+                  "category_type": "3",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e81bb708c50b",
+                  "parent_uid": "5e80716c563d6",
+                  "title": "ÖZEL GÜN ORGANİZASYON ",
+                  "category_type": "3",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e81bb95b9b8c",
+                  "parent_uid": "5e80716c563d6",
+                  "title": "IŞIK VE SES SİSTEMİ ",
+                  "category_type": "3",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e81bbacbf9e1",
+                  "parent_uid": "5e80716c563d6",
+                  "title": "FOTOĞRAF VE ALBÜM ÇEKİMİ ",
+                  "category_type": "3",
+                  "is_main_category": 2
+                }
+              ]
+            },
+            "87": {
+              "uid": "5e8071880c8ed",
+              "title": "MUTFAK & BANYO & DOLAP",
+              "category_type": "3",
+              "is_main_category": 1,
+              "items": []
+            },
+            "88": {
+              "uid": "5e80719c83640",
+              "title": "SİGORTA & KASKO",
+              "category_type": "3",
+              "is_main_category": 1,
+              "items": []
+            },
+            "89": {
+              "uid": "5e8071aa6b744",
+              "title": "VASITA",
+              "category_type": "3",
+              "is_main_category": 1,
+              "items": [
+                {
+                  "uid": "5e81bbd174198",
+                  "parent_uid": "5e8071aa6b744",
+                  "title": "OTOMOTİV ",
+                  "category_type": "3",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e81bbe3a089d",
+                  "parent_uid": "5e8071aa6b744",
+                  "title": "OTO GALERİ ",
+                  "category_type": "3",
+                  "is_main_category": 2
+                }
+              ]
+            },
+            "90": {
+              "uid": "5e8071b7ae0c0",
+              "title": "AKARYAKIT",
+              "category_type": "3",
+              "is_main_category": 1,
+              "items": []
+            },
+            "91": {
+              "uid": "5e8071d14972c",
+              "title": "KOZMETİK & PARFÜMERİ",
+              "category_type": "3",
+              "is_main_category": 1,
+              "items": [
+                {
+                  "uid": "5e81bbfab0807",
+                  "parent_uid": "5e8071d14972c",
+                  "title": "KOZMETİK ",
+                  "category_type": "3",
+                  "is_main_category": 2
+                },
+                {
+                  "uid": "5e81bc096a4a1",
+                  "parent_uid": "5e8071d14972c",
+                  "title": "PARFÜMERİ ",
+                  "category_type": "3",
+                  "is_main_category": 2
+                }
+              ]
+            },
+            "92": {
+              "uid": "5e8071fbcacb5",
+              "title": "PVC PENCERE & BALKON KAPAMA",
+              "category_type": "3",
+              "is_main_category": 1,
+              "items": []
+            },
+            "93": {
+              "uid": "5e80720b405c9",
+              "title": "REKLAM & TABELA",
+              "category_type": "3",
+              "is_main_category": 1,
+              "items": []
+            },
+            "94": {
+              "uid": "5e8072237a8df",
+              "title": "MATBAA & OFSET",
+              "category_type": "3",
+              "is_main_category": 1,
+              "items": []
+            },
+            "95": {
+              "uid": "5e8072327357c",
+              "title": "RENT A CAR",
+              "category_type": "3",
+              "is_main_category": 1,
+              "items": []
+            },
+            "96": {
+              "uid": "5e807241a11db",
+              "title": "OTO EKSPERTİZ",
+              "category_type": "3",
+              "is_main_category": 1,
+              "items": []
+            },
+            "97": {
+              "uid": "5e8072667be09",
+              "title": "ÇİLİNGİR",
+              "category_type": "3",
+              "is_main_category": 1,
+              "items": []
+            },
+            "98": {
+              "uid": "5e80727287c04",
+              "title": "ÇİÇEKCİ",
+              "category_type": "3",
+              "is_main_category": 1,
+              "items": []
+            },
+            "99": {
+              "uid": "5e807292e786a",
+              "title": "KİTAP & KIRTASİYE",
+              "category_type": "3",
+              "is_main_category": 1,
+              "items": []
+            },
+            "100": {
+              "uid": "5e8072a37dc41",
+              "title": "PET SHOP & VETERİNER",
+              "category_type": "3",
+              "is_main_category": 1,
+              "items": []
+            },
+            "101": {
+              "uid": "5e8072c660fb8",
+              "title": "WEB & GRAFİKER & PROGRAMCI",
+              "category_type": "3",
+              "is_main_category": 1,
+              "items": []
+            },
+            "102": {
+              "uid": "5e8072e111d34",
+              "title": "KONSER & ETKİNLİK",
+              "category_type": "3",
+              "is_main_category": 1,
+              "items": []
+            }
+          }
+        }
+      ]
+    }
+  ]
+}
