@@ -35,6 +35,10 @@ const options = [
     screen: 'PerformanceExample',
     title: 'Performance test',
   },
+  {
+    screen: 'ReduxExample',
+    title: 'Redux Example',
+  },
 ];
 
 const HomeScreen = () => {

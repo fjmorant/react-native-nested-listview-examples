@@ -1,43 +1,7 @@
 import React from 'react';
 import { Alert, StyleSheet, Text, View } from 'react-native';
 import NestedListView, { INode } from 'react-native-nested-listview';
-
-const generateXNumItems = (numItems: number, prefix: string) => {
-  const items = [];
-
-  let i;
-
-  for (i = 0; i < numItems; i++) {
-    items.push({
-      name: `${prefix}.${i}`,
-    });
-  }
-
-  return items;
-};
-
-const data = [
-  {
-    name: 'Item level 1.1',
-    descendants: generateXNumItems(100, 'Item level 1.1'),
-  },
-  {
-    name: 'Item level 1.2',
-    descendants: [
-      {
-        name: 'Item level 1.2.1',
-      },
-      {
-        name: 'Item level 1.2.2',
-        children: generateXNumItems(250, 'Item level 1.2.2'),
-      },
-    ],
-  },
-  {
-    name: 'Item level 1.3',
-    descendants: generateXNumItems(500, 'Item level 1.3'),
-  },
-];
+import { useSelector } from 'react-redux';
 
 const colorLevels: { [key: string]: any } = {
   0: 'white',
@@ -57,12 +21,16 @@ const styles = StyleSheet.create({
 });
 
 const CustomNodeExample = () => {
+  const products = useSelector((state) => state.products.products);
+
   const renderNode = (node: INode, level?: number) => {
     const paddingLeft = (level || 0 + 1) * 30;
     const backgroundColor = colorLevels[level || 0] || 'white';
 
     return (
-      <View style={[styles.node, { backgroundColor, paddingLeft }]}>
+      <View
+        key={node._internalId}
+        style={[styles.node, { backgroundColor, paddingLeft }]}>
         <Text>{node.name}</Text>
       </View>
     );
@@ -72,18 +40,14 @@ const CustomNodeExample = () => {
     Alert.alert(node?.name);
   };
 
-  const getChildrenName = (node: INode) => {
-    if (node.name === 'Item level 1.2.2') {
-      return 'children';
-    }
-
-    return 'descendants';
+  const getChildrenName = () => {
+    return 'subProducts';
   };
 
   return (
     <View style={styles.container}>
       <NestedListView
-        data={data}
+        data={products}
         getChildrenName={getChildrenName}
         onNodePressed={onNodePressed}
         renderNode={renderNode}
