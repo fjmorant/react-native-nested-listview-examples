@@ -55,9 +55,7 @@ const PerformanceExample = () => {
       <NestedListView
         getChildrenName={() => 'items'}
         data={data.side_panel_nested_categories}
-        onNodePressed={(node) => {
-          console.log(node);
-        }}
+        onNodePressed={() => {}}
         renderNode={(node: INode, level?: number) => {
           let iconByType = (
             <IconFeather name="menu" size={22} color={'indigo'} />

@@ -21,7 +21,7 @@ const styles = StyleSheet.create({
 });
 
 const CustomNodeExample = () => {
-  const products = useSelector((state) => state.products.products);
+  const products = useSelector<any>((state) => state.products.products);
 
   const renderNode = (node: INode, level?: number) => {
     const paddingLeft = (level || 0 + 1) * 30;
