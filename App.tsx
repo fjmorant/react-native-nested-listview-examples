@@ -1,6 +1,4 @@
-import { AppRegistry } from 'react-native';
 import * as React from 'react';
-import { name as appName } from './app.json';
 import CustomNodeExample from './CustomNodeExample';
 import StateChangeNodeExample from './StateChangeNodeExample';
 import ErrorMessageExample from './ErrorMessageExample';
@@ -9,16 +7,15 @@ import DynamicContentExample from './DynamicContentExample';
 import ChildrenAsObjectExample from './ChildrenAsObjectExample';
 import ExtraDataExample from './ExtraDataExample';
 import PerformanceExample from './PerformanceExample';
-import 'react-native-gesture-handler';
 
 import HomeScreen from './HomeScreen';
-import { NavigationContainer } from '@react-navigation/native';
-import { createStackNavigator } from '@react-navigation/stack';
-import { Provider } from 'react-redux';
+import {NavigationContainer} from '@react-navigation/native';
+import {createNativeStackNavigator} from '@react-navigation/native-stack';
+import {Provider} from 'react-redux';
 import store from './store';
 import ReduxExample from './ReduxExample';
 
-const Stack = createStackNavigator();
+const Stack = createNativeStackNavigator();
 
 const App = () => {
   return (
@@ -60,4 +57,4 @@ const App = () => {
   );
 };
 
-AppRegistry.registerComponent(appName, () => App);
+export default App;
