@@ -6301,10 +6301,10 @@ react-native-gesture-handler@2.6.1:
     lodash "^4.17.21"
     prop-types "^15.7.2"
 
-react-native-nested-listview@0.13.0:
-  version "0.13.0"
-  resolved "https://registry.yarnpkg.com/react-native-nested-listview/-/react-native-nested-listview-0.13.0.tgz#c3116d5f9da72addeac6cfd19995cd2946fea814"
-  integrity sha512-TI9DQXbaWB/siphbwBUfGkgzURbjXcUjByCMLcH3eaRbTHyGkiTmE20sRSauhz4RLsSl3Kw8p2V+R14U3dtxNA==
+react-native-nested-listview@0.13.1:
+  version "0.13.1"
+  resolved "https://registry.yarnpkg.com/react-native-nested-listview/-/react-native-nested-listview-0.13.1.tgz#ca8b6a788f6f8d154ec0470379d17a080c118150"
+  integrity sha512-vKlC/h0v9UlaIuBaORLq1MN7JhODSbVxChuTUJv96AkZzslz3n7FLIQ8e/AiLE5w95mrsYH2Sq8E0eLqPXmemQ==
   dependencies:
     object-hash "3.0.0"
 

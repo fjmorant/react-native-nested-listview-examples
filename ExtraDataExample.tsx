@@ -4,21 +4,6 @@ import React, { useState } from 'react';
 import { StyleSheet, Text, View, TouchableOpacity } from 'react-native';
 import NestedListView, { INode } from 'react-native-nested-listview';
 
-const generateXNumItems = (numItems: number, prefix: string) => {
-  const items = [];
-
-  let i;
-
-  for (i = 0; i < numItems; i++) {
-    items.push({
-      name: `${prefix}.${i}`,
-      selected: false,
-    });
-  }
-
-  return items;
-};
-
 const data = [
   {
     name: 'Item level 1.1',
@@ -88,7 +73,7 @@ const ExtraDataExample = () => {
         extraData={selected}
         getChildrenName={getChildrenName}
         renderNode={(node: INode, level?: number) => (
-          <View>
+          <>
             <Text>{node.name}</Text>
             <TouchableOpacity onPress={() => toggleChecked(node)}>
               {
@@ -100,7 +85,7 @@ const ExtraDataExample = () => {
                 )
               }
             </TouchableOpacity>
-          </View>
+          </>
         )}
       />
     </View>
