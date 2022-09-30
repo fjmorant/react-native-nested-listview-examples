@@ -1,4 +1,12 @@
-import { AppRegistry } from 'react-native';
+import {
+  AppRegistry,
+  Button,
+  Pressable,
+  SafeAreaView,
+  Text,
+  TouchableOpacity,
+  View,
+} from 'react-native';
 import * as React from 'react';
 import { name as appName } from './app.json';
 import CustomNodeExample from './CustomNodeExample';
@@ -9,53 +17,55 @@ import DynamicContentExample from './DynamicContentExample';
 import ChildrenAsObjectExample from './ChildrenAsObjectExample';
 import ExtraDataExample from './ExtraDataExample';
 import PerformanceExample from './PerformanceExample';
-import 'react-native-gesture-handler';
 
-import HomeScreen from './HomeScreen';
-import { NavigationContainer } from '@react-navigation/native';
-import { createStackNavigator } from '@react-navigation/stack';
 import { Provider } from 'react-redux';
 import store from './store';
 import ReduxExample from './ReduxExample';
+import { useState } from 'react';
 
-const Stack = createStackNavigator();
+const mapScreenComp: any = {
+  CustomNodeExample: () => <CustomNodeExample />,
+  StateChangeNodeExample: () => <StateChangeNodeExample />,
+  ErrorMessageExample: () => <ErrorMessageExample />,
+  NestedRowExample: () => <NestedRowExample />,
+  ExtraDataExample: () => <ExtraDataExample />,
+  DynamicContentExample: () => <DynamicContentExample />,
+  ChildrenAsObjectExample: () => <ChildrenAsObjectExample />,
+  PerformanceExample: () => <PerformanceExample />,
+  ReduxExample: () => <ReduxExample />,
+};
 
 const App = () => {
+  const [selectedScreen, setSelectedScreen] = useState<string>('');
+
   return (
     <Provider store={store}>
-      <NavigationContainer>
-        <Stack.Navigator>
-          <Stack.Screen name="Home" component={HomeScreen} />
-          <Stack.Screen
-            name="CustomNodeExample"
-            component={CustomNodeExample}
+      <SafeAreaView style={{ flex: 1 }}>
+        {selectedScreen ? (
+          <Button
+            onPress={() => {
+              setSelectedScreen('');
+            }}
+            title={'Clear selection'}
           />
-          <Stack.Screen
-            name="StateChangeNodeExample"
-            component={StateChangeNodeExample}
-          />
-          <Stack.Screen
-            name="ErrorMessageExample"
-            component={ErrorMessageExample}
-          />
-          <Stack.Screen name="NestedRowExample" component={NestedRowExample} />
-          <Stack.Screen name="ExtraDataExample" component={ExtraDataExample} />
-
-          <Stack.Screen
-            name="DynamicContentExample"
-            component={DynamicContentExample}
-          />
-          <Stack.Screen
-            name="ChildrenAsObjectExample"
-            component={ChildrenAsObjectExample}
-          />
-          <Stack.Screen
-            name="PerformanceExample"
-            component={PerformanceExample}
-          />
-          <Stack.Screen name="ReduxExample" component={ReduxExample} />
-        </Stack.Navigator>
-      </NavigationContainer>
+        ) : null}
+        {selectedScreen ? (
+          <View style={{ flex: 1 }}>{mapScreenComp[selectedScreen]()}</View>
+        ) : (
+          <>
+            {Object.keys(mapScreenComp).map((key) => {
+              return (
+                <Button
+                  onPress={() => {
+                    setSelectedScreen(key);
+                  }}
+                  title={key}
+                />
+              );
+            })}
+          </>
+        )}
+      </SafeAreaView>
     </Provider>
   );
 };
