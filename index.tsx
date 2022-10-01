@@ -1,12 +1,4 @@
-import {
-  AppRegistry,
-  Button,
-  Pressable,
-  SafeAreaView,
-  Text,
-  TouchableOpacity,
-  View,
-} from 'react-native';
+import { AppRegistry, Button, SafeAreaView, View } from 'react-native';
 import * as React from 'react';
 import { name as appName } from './app.json';
 import CustomNodeExample from './src/CustomNodeExample';
@@ -46,7 +38,7 @@ const App = () => {
             onPress={() => {
               setSelectedScreen('');
             }}
-            title={'Clear selection'}
+            title={'Back to Home'}
           />
         ) : null}
         {selectedScreen ? (
